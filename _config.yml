@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Hyo Kang"
 title_separator          : "-"
-subtitle                 : "Subtitle.."# site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyo Kang"
 description              : "Hyo Kang, Assistant Professor, University of Southern California, Marshall School of Business, Management and Organization, Strategy, Innovation, Public Policy, Business Law"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hyokang@marshall.usc.edu"
+      # url: "mailto:hyokang@marshall.usc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
