@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: wide
+layout: single
 author_profile: true
 ---
 
