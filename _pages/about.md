@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 layout: single
+classes: wide
+author-profile: false
 title:
 description:
 ---
