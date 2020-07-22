@@ -2,7 +2,7 @@
 permalink: /home/
 layout: single
 classes: wide
-author-profile: false
+author-profile: true
 title: Home
 description:
 ---
