@@ -1,10 +1,6 @@
 ---
-permalink: /home/
-layout: single
-classes: wide
-author-profile: true
 title: Home
-description:
+layout: default
 ---
 
 I am an <a href="https://people.ucd.ie/soumyabrata.dev/">Assistant Professor</a> in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, at <a href="https://www.ucd.ie/">University College Dublin</a>. I am also affiliated with <a href="https://www.ucd.ie/earth/">UCD Earth Institute</a>, and an Academic Collaborator with <a href="https://www.adaptcentre.ie">ADAPT SFI Research Centre</a>, Dublin. 
