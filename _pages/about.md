@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layout: single
+layout: splash
 classes: wide
 author-profile: false
 title:
