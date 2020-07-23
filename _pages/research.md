@@ -1,7 +1,8 @@
 ---
+title: Research
 layout: single
 classes: wide
-author_profile: false
+author-profile: false
 permalink: /research/
 title: Research
 sidebar:
