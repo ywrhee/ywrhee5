@@ -21,3 +21,30 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 + We are delighted to receive a research grant from <a href="https://www.kaggle.com/">Kaggle</a>, a subsidiary of Google LLC, for atmospheric monitoring using imaging sensors, along with <a href="https://people.ucd.ie/michela.bertolotto">Michela Bertolotto</a>, <a href="https://people.ucd.ie/gavin.mcardle">Gavin McArdle</a>, and <a href="https://people.ucd.ie/isabella.gollini">Isabella Gollini</a>.
 + Welcome Mayank Jain to our <a href="https://soumyabrata.dev/theia/">group</a>. He joins us for his PhD since January 2020, on understanding the various events in the atmosphere using computer vision techniques. 
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
+
+sd
+s
+
+s
+s
+s
+s
+
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+
+
+#
