@@ -8,3 +8,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# Custom sidebar
+sidebar-research:
+  - title: "Publications"
+    url: /research/#publications
+  - title: "Working Papers"
+    url: /publications/#working
+  - title: "Works-in-progress"
+    url: /publications/#progress
