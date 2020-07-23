@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Hyo Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "*Assistant Professor*  Marshall School of Business  University of Southern California"
+  bio              : "*Assistant Professor*<br />Marshall School of Business<br />University of Southern California"
   location         : "Los Angeles, CA"
   email            : "hyokang@marshall.usc.edu"
   links:
