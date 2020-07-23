@@ -3,11 +3,11 @@ layout: novipage
 permalink: /research/
 title: Research
 sidebar:
-  nav: sidebar-pubs
+  nav: sidebar-research
 ---
 
 
-## Journals
+## Publications
 
 + Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study. *Journal of Economics & Management Strategy* 29(3): 663-685. 2020. Kang, H. & Fleming, L. [<a href="http://dx.doi.org/10.1111/jems.12349">Journal</a>]
 
@@ -32,7 +32,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 + S. Dev, Nischal S., An efficient partner assignment algorithm for improving the performance of 802.11 WLAN, *International Journal of Recent Trends in Engineering, Issue on Electrical and Electronics*, vol. 2, no. 6, pp. 155-157, Nov 2009 [<a href="https://soumyabratadev.files.wordpress.com/2016/06/ijrte2009.pdf">PDF</a>] 
 
  
-## Conferences
+## Working Papers
 
 + M. Jain, T. Alskaif and S. Dev, A Clustering Framework for Residential Electric Demand Profiles, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2020. [<a href="https://github.com/jain15mayank/Clustering-Framework-for-Resedential-Demand-Profiles">code</a>]
 
@@ -131,7 +131,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 
 
-## Technical Reports
+## Works-in-progress
 
 + F. Piti&eacute;, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, An automatic system that identifies and locates the four corners of the advertising space in a video as a cloud service, *Patent Filed*, 2018. 
 
