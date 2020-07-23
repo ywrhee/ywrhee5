@@ -59,7 +59,7 @@ html {
 
 /* Fix the top part (added by HK) */
 .masthead {
-  position: sticky;
+  position: fixed; /* sticky */
   top: 0;
   background-color: #fff;
 }
