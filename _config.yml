@@ -100,7 +100,7 @@ author:
   email            : 
   links:
     - label: "hyokang@marshall.usc.edu"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "far fa-fw fa-envelope"
       url: "mailto:hyokang@marshall.usc.edu"
     - label: "USC Webpage"
       icon: "fas fa-fw fa-university"
