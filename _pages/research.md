@@ -12,9 +12,9 @@ sidebar:
 
 ## Publications
 
-+ Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study. *Journal of Economics & Management Strategy* 29(3): 663-685. 2020. Kang, H. & Fleming, L. [<a href="http://dx.doi.org/10.1111/jems.12349">Journal</a>]
++ <ins>Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study</ins>. *Journal of Economics & Management Strategy* 29(3): 663-685. 2020. Kang, H. & Fleming, L. [<a href="http://dx.doi.org/10.1111/jems.12349">Journal</a>]
 
-+ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Estimating Solar Irradiance Using Sky Imagers, *Atmospheric Measurement Techniques (AMT)*, 2019.  [<a href="https://arxiv.org/pdf/1910.04981.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/estimate-solar-irradiance">code</a>]
++ **Blending Talents for Innovation: Team Composition for Cross-border R&D Collaboration Within Multinational Corporations**. *Journal of International Business Studies* 51: 851-885. 2020. Seo, E., Kang, H., & Song, J. [<a href="https://doi.org/10.1057/s41267-020-00331-z">Journal</a>]
 
 + S. Manandhar, S. Dev, Y. H. Lee, Y. S. Meng, and S. Winkler, A Data-Driven Approach for Accurate Rainfall Prediction, *IEEE Transactions on Geoscience and Remote Sensing*, 2019. [<a href="https://arxiv.org/pdf/1907.04816.pdf">arXiv</a>] 
 
