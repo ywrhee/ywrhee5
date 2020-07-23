@@ -12,7 +12,7 @@ sidebar:
 
 ## Publications
 
-+ **Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study**. *Journal of Economics & Management Strategy* 29(3): 663-685. 2020. Kang, H. & Fleming, L. <a href="http://dx.doi.org/10.1111/jems.12349" class="btn btn--info btn--small">Journal</a> [<a href="http://dx.doi.org/10.1111/jems.12349">Journal</a>]
++ **Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study**. *Journal of Economics & Management Strategy* 29(3): 663-685. 2020. Kang, H. & Fleming, L. <span style="float:right"><a href="http://dx.doi.org/10.1111/jems.12349" class="btn btn--info btn--small">Journal</a> [<a href="http://dx.doi.org/10.1111/jems.12349">Journal</a>]</span>
 + **Blending Talents for Innovation: Team Composition for Cross-border R&D Collaboration Within Multinational Corporations**. *Journal of International Business Studies* 51: 851-885. 2020. Seo, E., Kang, H., & Song, J. [<a href="https://doi.org/10.1057/s41267-020-00331-z">Journal</a>]
 
 + **Innovation and recurring shifts in industrial leadership: Three phases of change and persistence in the camera industry**. *Research Policy* 46(2): 376-387. 2017. Kang, H. & Song, J. [<a href="https://www.sciencedirect.com/science/article/pii/S004873331630138X">Journal</a>]
