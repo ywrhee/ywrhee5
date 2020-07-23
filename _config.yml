@@ -99,7 +99,7 @@ author:
   location         : "Los Angeles, CA"
   email            : "hyokang@marshall.usc.edu"
   links:
-    - label: "Email"
+    - label: "hyokang@marshall.usc.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:hyokang@marshall.usc.edu"
     - label: "Website"
