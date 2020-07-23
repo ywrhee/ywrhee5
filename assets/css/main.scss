@@ -6,3 +6,15 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+/* Bootstrap Override (Added by HK) */
+
+.btn-warning
+{
+  background-color: #c1a367;  
+}
+.btn-warning:hover
+{
+  background-color: #cfb98b;
+}
