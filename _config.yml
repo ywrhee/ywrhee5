@@ -110,7 +110,7 @@ author:
       url: "https://scholar.google.com/citations?user=4uWW4QcAAAAJ&hl=en"
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assets/pdf/CV-Hyo-Kang.pdf"
+      url: "https://hyokangs.github.io/assets/pdf/CV-Hyo-Kang.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
