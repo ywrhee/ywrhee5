@@ -425,7 +425,8 @@
 
       &:hover {
         text-decoration: underline;
-        text-decoration-thickness: 1px;
+        text-decoration-color: #c1a367; /* added */
+        text-decoration-thickness: 1px; /* added */
       }
     }
   }
