@@ -1,5 +1,6 @@
 ---
-title: home
+title: Home
+permalink: /home/
 layout: single
 classes: wide
 author_profile: true
