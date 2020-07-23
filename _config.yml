@@ -96,8 +96,8 @@ author:
   name             : "Hyo Kang"
   avatar           : "/assets/images/HyoKang.png"
   bio              : "*Assistant Professor*<br />Marshall School of Business<br />University of Southern California"
-  location         : "Los Angeles, CA"
-  email            : ""
+  location         : #"Los Angeles, CA"
+  email            : 
   links:
     - label: "hyokang@marshall.usc.edu"
       icon: "fas fa-fw fa-envelope-square"
@@ -105,9 +105,9 @@ author:
     - label: "USC Webpage"
       icon: "fas fa-fw fa-link"
       url: "https://www.marshall.usc.edu/personnel/hyo-kang"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=4uWW4QcAAAAJ&hl=en"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
