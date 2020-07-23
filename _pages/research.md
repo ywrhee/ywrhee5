@@ -4,7 +4,6 @@ layout: single
 classes: wide
 author-profile: false
 permalink: /research/
-title: Research
 sidebar:
   nav: sidebar-research
 ---
