@@ -12,28 +12,11 @@ sidebar:
 
 ## Publications
 
-+ <ins>Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study</ins>. *Journal of Economics & Management Strategy* 29(3): 663-685. 2020. Kang, H. & Fleming, L. [<a href="http://dx.doi.org/10.1111/jems.12349">Journal</a>]
++ **Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study**. *Journal of Economics & Management Strategy* 29(3): 663-685. 2020. Kang, H. & Fleming, L. [<a href="http://dx.doi.org/10.1111/jems.12349">Journal</a>]
 
 + **Blending Talents for Innovation: Team Composition for Cross-border R&D Collaboration Within Multinational Corporations**. *Journal of International Business Studies* 51: 851-885. 2020. Seo, E., Kang, H., & Song, J. [<a href="https://doi.org/10.1057/s41267-020-00331-z">Journal</a>]
 
-+ S. Manandhar, S. Dev, Y. H. Lee, Y. S. Meng, and S. Winkler, A Data-Driven Approach for Accurate Rainfall Prediction, *IEEE Transactions on Geoscience and Remote Sensing*, 2019. [<a href="https://arxiv.org/pdf/1907.04816.pdf">arXiv</a>] 
-
-+ S. Dev, A. Nautiyal, Y. H. Lee, S. Winkler, CloudSegNet: A Deep Network for Nychthemeron Cloud Segmentation, *IEEE Geoscience and Remote Sensing Letters*, 2019. [<a href="https://arxiv.org/pdf/1904.07979.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/CloudSegNet">code</a>]
-
-+ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, High-Dynamic-Range Imaging for Cloud Segmentation, *Atmospheric Measurement Techniques (AMT)*, 2018.  [<a href="https://soumyabratadev.files.wordpress.com/2018/03/amt2018.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1803.01071.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/HDR-cloud-segmentation">code</a>]
-
-+ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Rough Set Based Color Channel Selection, *IEEE Geoscience and Remote Sensing Letters*, vol. 14, no. 1, pp. 52-56, Jan 2017.  [<a href="https://soumyabratadev.files.wordpress.com/2016/11/grsl2016.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1611.00931v1.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/rough-sets">code</a>]
-
-+ S. Dev, Y. H. Lee, S. Winkler, Color-based segmentation of sky/cloud images from ground-based cameras, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 10, no. 1, pp. 231-242, Jan 2017.  [<a href="https://soumyabratadev.files.wordpress.com/2016/07/jstars2016.pdf">PDF</a>] [<a href="http://arxiv.org/pdf/1606.03669v1.pdf">arXiv</a>]
-
-+ S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, <a href="https://sigport.org/documents/diy-sky-imager-weather-observation">DIY Sky Imager For Weather Observation: A complete guide to build a ground-based sky imager using off-the-shelf components with automatic cloud coverage computation</a>, SPM Student Design Project Series Documents, IEEE Signal Processing Society, 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/08/diy-sky-imager-project_1.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/DIY-sky-imager">code</a>]
-<br />
-Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">Students' Design Project Series: Sharing Experiences [SP Education]</a>, IEEE Signal Processing Magazine, Jan 2017.
-
-+ S. Dev, B. Wen, Y. H. Lee, S. Winkler, Machine Learning Techniques and Applications For Ground-based Image Analysis, *IEEE Geoscience and Remote Sensing Magazine, Special Issue on Advances in Machine Learning for Remote Sensing and Geosciences*, vol. 4, no. 2, pp. 79-93, Jun 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/06/grsm20153.pdf">PDF</a>] [<a href="http://arxiv.org/pdf/1606.02811v1.pdf">arXiv</a>]
-
-+ S. Dev, Nischal S., An efficient partner assignment algorithm for improving the performance of 802.11 WLAN, *International Journal of Recent Trends in Engineering, Issue on Electrical and Electronics*, vol. 2, no. 6, pp. 155-157, Nov 2009 [<a href="https://soumyabratadev.files.wordpress.com/2016/06/ijrte2009.pdf">PDF</a>] 
-
++ **Innovation and recurring shifts in industrial leadership: Three phases of change and persistence in the camera industry**. *Research Policy* 46(2): 376-387. 2017. Kang, H. & Song, J. [<a href="https://www.sciencedirect.com/science/article/pii/S004873331630138X">Journal</a>]
  
 ## Working Papers
 
