@@ -39,7 +39,7 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-/* Override */
+/* Font Size  Override (Added by HK) */
 
 html {
   font-size: 12px; // change to whatever
@@ -55,4 +55,15 @@ html {
   @include breakpoint($x-large) {
     font-size: 19px; // change to whatever
   }
+}
+
+/* Bootstrap Override (Added by HK) */
+
+.btn-warning
+{
+  background-color: #c1a367;  
+}
+.btn-warning:hover
+{
+  background-color: #cfb98b;
 }
