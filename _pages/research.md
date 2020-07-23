@@ -1,5 +1,7 @@
 ---
-layout: novipage
+layout: single
+classes: wide
+author_profile: false
 permalink: /research/
 title: Research
 sidebar:
