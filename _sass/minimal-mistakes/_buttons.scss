@@ -93,5 +93,8 @@
   /* small button */
   &--small {
     font-size: $type-size-7;
+    border:0px;
+    padding:0px 7px;
+    line-height:23px;
   }
 }
