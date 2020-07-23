@@ -235,8 +235,8 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
-        background: $primary-color;
+        height: 3px; /* 4px */
+        background: #c1a367; /* $primary-color */
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -424,9 +424,7 @@
       }
 
       &:hover {
-        text-decoration: underline;
-        text-decoration-color: #c1a367; /* added */
-        text-decoration-thickness: 1px; /* added */
+        text-decoration: underline;        
       }
     }
   }
@@ -541,7 +539,7 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #c1a367; /* $text-color; */
+      color: $text-color;
     }
   }
 
