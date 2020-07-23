@@ -38,13 +38,13 @@ sidebar:
  
 ## Working Papers
 
-+ **How Does Competition Affect Innovation? Evidence from U.S. Antitrust Cases**.  USC Marshall School of Business Research Paper. 2020. Kang, H.
++ **How Does Competition Affect Innovation? Evidence from U.S. Antitrust Cases**.  USC Marshall School of Business Research Paper. 2020. Kang, H.<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a></span>
 
-+ **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on Worker Mobility**.  USC Marshall School of Business Research Paper. 2020. Kang, H. & Lee, Y.
++ **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on Worker Mobility**. USC Marshall School of Business Research Paper. 2020. Kang, H. & Lee, Y.<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a></span>
 
-+ **The Close Relationship Between Management Practices and Corporate Culture**.  Working paper. 2019. Sull, D., Kang, H., & Thompson, N.
++ **The Close Relationship Between Management Practices and Corporate Culture**. Working paper. 2019. Sull, D., Kang, H., & Thompson, N.<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3462116" class="btn btn--info btn--small">SSRN</a></span>
 
-+ **Tradeoffs in Firm Culture? Nope, You Can Have It All**.  Working paper. 2018. Sull, D., Kang, H., & Thompson, N.
++ **Tradeoffs in Firm Culture? Nope, You Can Have It All**. Working paper. 2018. Sull, D., Kang, H., & Thompson, N.<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3228167" class="btn btn--info btn--small">SSRN</a></span>
 
 ## Works-in-progress
 
