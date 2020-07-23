@@ -56,3 +56,10 @@ html {
     font-size: 19px; // change to whatever
   }
 }
+
+/* Fix the top part (added by HK) */
+.masthead {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+}
