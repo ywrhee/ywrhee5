@@ -28,7 +28,7 @@
     font-size: $type-size-5; /* 6 */
 
     @include breakpoint($large) {
-      float: left; /* right */
+      float: right;
       width: calc(100% - #{$right-sidebar-width-narrow});
     }
 
