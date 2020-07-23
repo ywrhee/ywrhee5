@@ -49,6 +49,7 @@
   display: flex;
   -ms-flex-item-align: center;
   align-self: center;
+  font-size: $type-size-3; /* added */
   font-weight: bold;  
   // z-index: 20;
 }
@@ -69,7 +70,7 @@
     margin-left: 0;
 
     @include breakpoint($small) {
-      float: right;
+      float: left; /* right */
     }
   }
 
