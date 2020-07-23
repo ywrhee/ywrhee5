@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /home/
+    url: "index.md"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
