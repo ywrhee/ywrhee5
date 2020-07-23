@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: index
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Research"
+    url: /research/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
