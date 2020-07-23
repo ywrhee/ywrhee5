@@ -4,6 +4,8 @@
 
 .masthead {
   position: sticky; /* options: top: 0; background-color: #fff;;;;; original: relative */ 
+  top: 0; /* HK */
+  background-color: #fff; /* HK */
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
