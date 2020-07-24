@@ -3,10 +3,7 @@ $(function () {
     var host = document.location.host;
     $("a[href]").each(function() {
         var re = new RegExp(host, "g");
-        if ($(this).attr("href").match(/\/\//) && !$(this).attr("href").match(re)) {
-            $(this).attr("target", "_blank");
-        }
-        if ($(this).attr("href").match(pdf)) {
+        if ($(this).attr("href").match(/\/\//) && (!$(this).attr("href").match(re) || $(this).attr("href").match(pdf))) {
             $(this).attr("target", "_blank");
         }
     });
