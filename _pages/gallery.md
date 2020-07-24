@@ -1,6 +1,7 @@
 ---
 title:
 layout: single
+classes: wide
 permalink: /gallery/
 author-profile: false
 sidebar:
