@@ -6,8 +6,6 @@ permalink: /research/
 sidebar:
   nav: sidebar-research
 ---
-
-
 ## Publications
 
 + **Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study**.
