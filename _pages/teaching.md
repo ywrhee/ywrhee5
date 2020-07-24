@@ -9,6 +9,7 @@ sidebar:
   nav: sidebar-teaching
 ---
 <div style="margin-top:-30px;"></div>
+
 ## University of Southern California
 
 + **Strategic Management**, *Instructor* (BUAD497)
