@@ -5,6 +5,7 @@ classes: wide
 author-profile: false
 permalink: /research/
 sidebar:
+  title: "Research"
   nav: sidebar-research
 ---
 ## Publications
