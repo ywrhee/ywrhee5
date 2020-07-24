@@ -1,11 +1,11 @@
 ---
-title: "Teaching"
+title: 
 layout: single
 classes: wide
 author-profile: false
 permalink: /teaching/
 sidebar:
-  title: "Teachinggg"
+  title: "Teaching"
   nav: sidebar-teaching
 ---
 ## University of Southern California
