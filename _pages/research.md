@@ -1,4 +1,5 @@
 ---
+title: "Research"
 layout: single
 classes: wide
 author-profile: false
