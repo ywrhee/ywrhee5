@@ -29,3 +29,10 @@ sidebar-teaching:
     url: /teaching/#university-of-california-berkeley
   - title: "Seoul Nat'l Univ."
     url: /teaching/#seoul-national-university
+    
+# Gallery sidebar
+sidebar-gallery:
+  - title: "Seoul"
+    url: /gallery/#seoul
+  - title: "Playa Vista"
+    url: /gallery/#playa-vista
