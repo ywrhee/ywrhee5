@@ -6,5 +6,8 @@ $(function () {
         if ($(this).attr("href").match(/\/\//) && !$(this).attr("href").match(re)) {
             $(this).attr("target", "_blank");
         }
+        if ($(this).attr("href").match(pdf)) {
+            $(this).attr("target", "_blank");
+        }
     });
 });
