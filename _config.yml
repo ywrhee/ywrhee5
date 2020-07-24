@@ -281,5 +281,5 @@ defaults:
       related: true
 
 # HK
-titles_from_headings:
-  enabled: false
+# titles_from_headings:
+#   enabled: false
