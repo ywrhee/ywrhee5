@@ -4,8 +4,8 @@ main:
     url: index
   - title: "Research"
     url: /research/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "CV"
+    url: /_pages/cv.html
   # - title: "Sitemap"
   #   url: /sitemap/
 
