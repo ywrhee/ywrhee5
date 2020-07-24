@@ -8,10 +8,9 @@ sidebar:
 ---
 ## University of Southern California
 
-Strategic Management
-+ Instructor
-+ Fall 2020
-+ Fall 2019
++ Strategic Management
+++ Instructor
+++ Fall 2020 & Fall 2019
 
 ## University of California, Berkeley
 
