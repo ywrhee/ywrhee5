@@ -4,7 +4,7 @@ layout: single
 classes: wide
 author-profile: false
 permalink: /teaching/
-sidebar-narrow:
+sidebar:
   nav: sidebar-teaching
 ---
 ## University of Southern California
