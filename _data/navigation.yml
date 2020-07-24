@@ -4,6 +4,8 @@ main:
     url: index
   - title: "Research"
     url: /research/
+  - title: "Teaching"
+    url: /teaching/
   - title: "CV"
     url: /cvv/
   # - title: "Sitemap"
