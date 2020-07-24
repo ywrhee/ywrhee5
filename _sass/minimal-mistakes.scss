@@ -56,3 +56,8 @@ html {
     font-size: 17px; // change to whatever
   }
 }
+
+/* Underline type (HK) */
+a:-webkit-any-link {
+    text-decoration-style: dotted;
+}
