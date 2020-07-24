@@ -1,6 +1,0 @@
----
-permalink: /cv/
----
-
-abcd
-<embed src="https://hyokangs.github.co/assets/pdf/CV-Hyo-Kang.pdf" type="application/pdf" />
