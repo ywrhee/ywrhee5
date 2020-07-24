@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 layout: single
 classes: wide
 author-profile: false
