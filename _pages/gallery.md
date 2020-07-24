@@ -3,6 +3,9 @@ title:
 layout: single
 permalink: /gallery/
 author-profile: false
+sidebar:
+  title: "Gallery"
+  nav: sidebar-gallery
 ---
 
 # Seoul
