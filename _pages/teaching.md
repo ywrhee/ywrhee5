@@ -5,6 +5,7 @@ classes: wide
 author-profile: false
 permalink: /teaching/
 sidebar:
+  title: "Teachinggg"
   nav: sidebar-teaching
 ---
 ## University of Southern California
