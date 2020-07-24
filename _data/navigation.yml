@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-# Custom sidebar
+# Research sidebar
 sidebar-research:
   - title: "Publications"
     url: /research/#publications
@@ -19,3 +19,12 @@ sidebar-research:
     url: /research/#working-papers
   - title: "Works-in-progress"
     url: /research/#works-in-progress
+
+# Teaching sidebar
+sidebar-teacehing:
+  - title: "USC-Marshall"
+    url: /research/#university-of-southern-california
+  - title: "Berkeley-Haas"
+    url: /research/#university-of-california-berkeley
+  - title: "Seoul Nat'l Univ."
+    url: /research/#seoul-national-university
