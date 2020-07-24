@@ -5,7 +5,7 @@ main:
   - title: "Research"
     url: /research/
   - title: "CV"
-    url: cv.html
+    url: /cv/
   # - title: "Sitemap"
   #   url: /sitemap/
 
