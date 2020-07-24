@@ -1,0 +1,12 @@
+---
+title:
+permalink: /gallery/
+author-profile: false
+---
+
+<figure class="third">
+	<img src="/assets/images/HyoKang.png">
+	<img src="/assets/images/HyoKang.png">
+	<img src="/assets/images/HyoKang.png">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
