@@ -176,7 +176,7 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-    font-size: $type-size-5; /* HK */
+    font-size: $type-size-4; /* HK */
   }
 }
 
@@ -188,7 +188,7 @@
   z-index: 20;
   position: relative;
   cursor: pointer;
-  font-size: $type-size-5; /* HK */
+  font-size: $type-size-4; /* HK */
   
   li:last-child {
     a {
