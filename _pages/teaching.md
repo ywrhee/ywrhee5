@@ -21,7 +21,7 @@ sidebar:
 + **Entrepreneurship and Technology Commercialization Program**, *Guest Lecturer*
   + Fall 2016 ("Product Market Competition and Incentivizing Technological Innovation")
   + Fall 2015 ("Silicon Valley: Entrepreneurship and Worker Mobility")
-  [This event was organized by Hanyang University and Korean government and held at UC Berkeley campus.]{:.notice}
+  [This event was organized by Hanyang University and Korean government and held at UC Berkeley campus.] <a class="notice">abcd</a>
 
 + **Game Theory and Entrepreneurship**, *Guest Lecturer* ("B-BAY," Berkeley Business Academy for Youth )
   + Summer 2015
