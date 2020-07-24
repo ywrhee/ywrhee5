@@ -8,6 +8,8 @@ sidebar:
   title: "Research"
   nav: sidebar-research
 ---
+<div style="margin-top:-30px;"></div>
+
 ## Publications
 
 + **Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study**.
