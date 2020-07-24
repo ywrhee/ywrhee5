@@ -9,8 +9,9 @@ sidebar:
 ## University of Southern California
 
 + **Strategic Management**, *Instructor*
-  + Fall 2020
-  + Fall 2019
+  + Fall 2020 <a href="https://classes.usc.edu/term-20203/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
+  + Fall 2019 <a href="https://classes.usc.edu/term-20193/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
+  <a href="https://web-app.usc.edu/soc/syllabus/20193/15102.pdf" class="btn btn--warning btn--small">Syllabus</a>
 
 ## University of California, Berkeley
 
