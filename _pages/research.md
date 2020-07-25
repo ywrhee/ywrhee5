@@ -17,7 +17,7 @@ sidebar:
 <span style="float:right">
   <a href="http://dx.doi.org/10.1111/jems.12349" class="btn btn--warning btn--small">Journal</a>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3172477" class="btn btn--info btn--small">SSRN</a>
-  <a href="http://dx.doi.org/10.1111/jems.12349" class="btn btn--danger btn--small">PDF</a>
+  <a href="/assets/pdf/SSRN-id3172477.pdf" class="btn btn--danger btn--small">PDF</a>
 </span>
 
     
@@ -26,7 +26,7 @@ sidebar:
 <span style="float:right">
   <a href="https://doi.org/10.1057/s41267-020-00331-z" class="btn btn--warning btn--small">Journal</a>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3575878" class="btn btn--info btn--small">SSRN</a>
-  <a href="http://dx.doi.org/10.1111/jems.12349" class="btn btn--danger btn--small">PDF</a>
+  <a href="/assets/pdf/SSRN-id3575878.pdf" class="btn btn--danger btn--small">PDF</a>
 </span>
 
 + **Innovation and recurring shifts in industrial leadership: Three phases of change and persistence in the camera industry**.  
@@ -34,22 +34,30 @@ sidebar:
 <span style="float:right">
   <a href="https://www.sciencedirect.com/science/article/pii/S004873331630138X" class="btn btn--warning btn--small">Journal</a>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3172481" class="btn btn--info btn--small">SSRN</a>
-  <a href="http://dx.doi.org/10.1111/jems.12349" class="btn btn--danger btn--small">PDF</a>
+  <a href="/assets/pdf/SSRN-id3172481.pdf" class="btn btn--danger btn--small">PDF</a>
 </span>
 
 ## Working Papers
 
 + **How Does Competition Affect Innovation? Evidence from U.S. Antitrust Cases**.  
-USC Marshall School of Business Research Paper. 2020. Kang, H.<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a></span>
+USC Marshall School of Business Research Paper. 2020. Kang, H.
+<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
+<a href="/assets/pdf/SSRN-id3516974.pdf" class="btn btn--danger btn--small">PDF</a></span>
 
 + **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on Worker Mobility**.  
-USC Marshall School of Business Research Paper. 2020. Kang, H. & Lee, Y.<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a></span>
+USC Marshall School of Business Research Paper. 2020. Kang, H. & Lee, Y.
+<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
+<a href="/assets/pdf/SSRN-id3171829.pdf" class="btn btn--danger btn--small">PDF</a></span>
 
 + **The Close Relationship Between Management Practices and Corporate Culture**.  
-Working paper. 2019. Sull, D., Kang, H., & Thompson, N.<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3462116" class="btn btn--info btn--small">SSRN</a></span>
+Working paper. 2019. Sull, D., Kang, H., & Thompson, N.
+<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3462116" class="btn btn--info btn--small">SSRN</a>
+<a href="/assets/pdf/SSRN-id3462116.pdf" class="btn btn--danger btn--small">PDF</a></span>
 
 + **Tradeoffs in Firm Culture? Nope, You Can Have It All**.  
-Working paper. 2018. Sull, D., Kang, H., & Thompson, N.<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3228167" class="btn btn--info btn--small">SSRN</a></span>
+Working paper. 2018. Sull, D., Kang, H., & Thompson, N.
+<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3228167" class="btn btn--info btn--small">SSRN</a>
+<a href="/assets/pdf/SSRN-id3228167.pdf" class="btn btn--danger btn--small">PDF</a></span>
 
 ## Works-in-progress
 
