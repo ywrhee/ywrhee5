@@ -10,7 +10,7 @@ sidebar:
 ---
 <div style="margin-top:-30px;"></div>
 
-## Publications
+# Publications
 
 + **Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study**.  
 *Journal of Economics & Management Strategy* 29(3): 663-685. 2020. Kang, H. & Fleming, L.
