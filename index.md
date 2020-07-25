@@ -6,7 +6,8 @@ author_profile: true
 
 ### Welcome!
 
-I am an assistant profesosr
+
+I am an Assistant Professor in Management and Organization at Marshall School of Business, University of Southern California.
 
 My research interest broadly lies in firm strategy and business economics, with a focus on innovation and entrepreneurship.
 + The key question in my research is how firms strategically manage their innovation processes and outcomes in response to ever-changing business environments.
@@ -14,7 +15,6 @@ My research interest broadly lies in firm strategy and business economics, with 
   1. Product market competition
   2. Competition for labor forces, and
   3. Competition for innovation and intellectual property rights
-
 
 
 <a href="/assets/pdf/CV-Hyo-Kang.pdf" class="btn btn--warning" target="_blank">Curriculum Vitae</a>
