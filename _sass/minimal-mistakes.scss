@@ -59,11 +59,8 @@ html {
 
 /* Underline type (HK) */
 a:-webkit-any-link {
-    text-decoration-style: dotted;
-}
-a:not(.btn) {
-  &:hover {
+  text-decoration-style: dotted;
+  &:hover{
     text-decoration-style: dotted;
   }
 }
-   
