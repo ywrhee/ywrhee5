@@ -9,20 +9,51 @@ sidebar:
   nav: sidebar-gallery
 ---
 
+## Yellowstone National Park
+
+<figure class="half">
+	<img src="/assets/images/YSN-3.jpg">
+  <img src="/assets/images/YSN-4.jpg">
+	<figcaption>Yellowstone National Park</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/assets/images/YSN-1.jpg">
+	<img src="/assets/images/YSN-2.jpg">
+	<figcaption>Yellowstone National Park</figcaption>
+</figure>
+
+## Iceland
+
+<figure class="third">
+	<img src="/assets/images/ICE-1.jpg">
+	<img src="/assets/images/ICE-2.jpg">
+	<img src="/assets/images/ICE-3.jpg">
+	<figcaption>Iceland</figcaption>
+</figure>
+
+
+# North California
+
+<figure class="third">
+	<img src="/assets/images/BigSur.jpg">
+	<img src="/assets/images/SF.jpg">
+	<img src="/assets/images/Yosemite.jpg">
+	<figcaption>BigSur, San Francisco, and Yosemite National Park (California)</figcaption>
+</figure>
+
 # Seoul
 
 <figure class="third">
-	<img src="/assets/images/HyoKang.png">
-	<img src="/assets/images/HyoKang.png">
-	<img src="/assets/images/HyoKang.png">
-	<figcaption>Caption describing these three images.</figcaption>
+	<img src="/assets/images/Seoul-1.png">
+	<img src="/assets/images/Seoul-2.png">
+	<img src="/assets/images/Seoul-3.png">
+	<figcaption>Cheonggyecheon, Seoul National University Business School (Seoul, South Korea)</figcaption>
 </figure>
 
-# Playa Vista
+# Italy
 
-<figure class="third">
-	<img src="/assets/images/HyoKang.png">
-	<img src="/assets/images/HyoKang.png">
-	<img src="/assets/images/HyoKang.png">
-	<figcaption>Caption describing these three images.</figcaption>
+<figure>
+	<img src="/assets/images/ITALY.png">
+	<figcaption>Cinque Terre, Italy</figcaption>
 </figure>
