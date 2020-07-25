@@ -8,7 +8,7 @@ sidebar:
   title: "Gallery"
   nav: sidebar-gallery
 ---
-
+<div style="margin-top:10px;"></div> <!-- -30px -->
 I enjoy photography and am also interested in cameras, which motivated my research on innovation and recurring shifts in industrial leadership in the camera market, appeared in [*Research Policy* (2017)](https://www.sciencedirect.com/science/article/pii/S004873331630138X).
 
 ## Yellowstone National Park
@@ -16,13 +16,13 @@ I enjoy photography and am also interested in cameras, which motivated my resear
 <figure class="half">
 	<img src="/assets/images/YSN-3.jpg">
   <img src="/assets/images/YSN-4.jpg">
-	<figcaption>Yellowstone National Park</figcaption>
+	<!--<figcaption>Yellowstone National Park</figcaption>-->
 </figure>
 
 <figure class="half">
 	<img src="/assets/images/YSN-1.jpg">
 	<img src="/assets/images/YSN-2.jpg">
-	<figcaption>Yellowstone National Park</figcaption>
+	<!--<figcaption>Yellowstone National Park</figcaption>-->
 </figure>
 
 ## Iceland
@@ -31,7 +31,7 @@ I enjoy photography and am also interested in cameras, which motivated my resear
 	<img src="/assets/images/ICE-1.jpg">
 	<img src="/assets/images/ICE-2.jpg">
 	<img src="/assets/images/ICE-3.jpg">
-	<figcaption>Iceland</figcaption>
+	<!--<figcaption>Iceland</figcaption>-->
 </figure>
 
 
