@@ -60,7 +60,7 @@ html {
 /* Underline type (HK) */
 a:-webkit-any-link {
   text-decoration-style: dotted;
-  &:hover{
-    text-decoration-style: dotted;
-  }
+}
+a:hover {
+  text-decoration-style: dotted;
 }
