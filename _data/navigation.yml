@@ -2,14 +2,14 @@
 main:
   - title: "Home"
     url: index
-  - title: "CV"
-    url: https://hyokangs.github.io/assets/pdf/CV-Hyo-Kang.pdf
   - title: "Research"
     url: /research/
   - title: "Teaching"
     url: /teaching/
   - title: "Gallery"
     url: /gallery/
+  - title: "CV*"
+    url: https://hyokangs.github.io/assets/pdf/CV-Hyo-Kang.pdf
 
 # Research sidebar
 sidebar-research:
