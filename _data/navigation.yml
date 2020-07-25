@@ -31,7 +31,13 @@ sidebar-teaching:
     
 # Gallery sidebar
 sidebar-gallery:
+  - title: "Yellowstone"
+    url: /gallery/#yellowstone-national-park
+  - title: "Iceland"
+    url: /gallery/#iceland
+  - title: "North California"
+    url: /gallery/#north-california
   - title: "Seoul"
     url: /gallery/#seoul
-  - title: "Playa Vista"
-    url: /gallery/#playa-vista
+  - title: "Italy"
+    url: /gallery/#italy
