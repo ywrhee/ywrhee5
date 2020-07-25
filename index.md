@@ -9,7 +9,8 @@ author_profile: true
 + I explore three different types of competition:
   1. Product market competition
   2. Competition for labor forces, and
-  3. Competition for innovation and intellectual property rights  
+  3. Competition for innovation and intellectual property rights
+
 and how relevant policies reshape firm innovation strategies.
 
 <a href="/assets/pdf/CV-Hyo-Kang.pdf" class="btn btn--warning" target="_blank">Curriculum Vitae</a>
