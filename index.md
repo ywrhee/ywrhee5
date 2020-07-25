@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-<img src="https://www.marshall.usc.edu/themes/custom/usc_base/logo.svg" align="right" width=300px>
+<img src="https://www.marshall.usc.edu/themes/custom/usc_base/logo.svg" width="300" style="float:right">
 
 ### Welcome!
 <br />
