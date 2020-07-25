@@ -8,15 +8,16 @@ sidebar:
   title: "Teaching"
   nav: sidebar-teaching
 ---
-<!-- <div style="margin-top:-30px;"></div> -->
-<br />
+<div style="margin-top:10px;"></div> <!-- -30px -->
+
 # University of Southern California
 
 + **Strategic Management**, *Instructor* (BUAD497)
   + Fall 2020 <a href="https://classes.usc.edu/term-20203/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
   + Fall 2019 <a href="https://classes.usc.edu/term-20193/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
   <a href="https://web-app.usc.edu/soc/syllabus/20193/15102.pdf" class="btn btn--warning btn--small">Syllabus</a>
-<br />
+
+
 # University of California, Berkeley
 
 + **Competitive Strategy**, *Teaching Assistant* (EWMBA299)
@@ -29,7 +30,8 @@ sidebar:
 
 + **Game Theory and Entrepreneurship**, *Guest Lecturer* ("B-BAY," Berkeley Business Academy for Youth )
   + Summer 2015
-<br />
+
+
 # Seoul National University
 
 + **Strategy**, *Teaching Assistant* (Executive MBA)
