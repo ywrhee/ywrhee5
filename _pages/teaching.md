@@ -28,7 +28,7 @@ sidebar:
   + Fall 2015 ("Silicon Valley: Entrepreneurship and Worker Mobility")
 
 + **Game Theory and Entrepreneurship**, *Guest Lecturer* ("B-BAY," Berkeley Business Academy for Youth )
-  + Summer 2015<br/>
+  + Summer 2015<br/><br/>
 
 # Seoul National University
 
