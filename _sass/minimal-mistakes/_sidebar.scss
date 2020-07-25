@@ -36,8 +36,8 @@
     }
   }
 
-  @include breakpoint($x-large) {
-    width: calc(#{$right-sidebar-width} - 1em);
+  @include breakpoint($large) { /* HK. Originally, $x-large */
+    width: calc(#{$right-sidebar-width-narrow} - 1em);
   }
 
   > * {
