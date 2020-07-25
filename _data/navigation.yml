@@ -8,7 +8,7 @@ main:
     url: /teaching/
   - title: "Gallery"
     url: /gallery/
-  - title: "CV<sup>New Tab</sup>"
+  - title: "CV<sub>(new tab)</sub>"
     url: https://hyokangs.github.io/assets/pdf/CV-Hyo-Kang.pdf
 
 # Research sidebar
