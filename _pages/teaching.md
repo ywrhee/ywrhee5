@@ -18,6 +18,7 @@ sidebar:
   <a href="https://web-app.usc.edu/soc/syllabus/20193/15102.pdf" class="btn btn--warning btn--small">Syllabus</a>
 
 
+
 # University of California, Berkeley
 
 + **Competitive Strategy**, *Teaching Assistant* (EWMBA299)
@@ -30,6 +31,7 @@ sidebar:
 
 + **Game Theory and Entrepreneurship**, *Guest Lecturer* ("B-BAY," Berkeley Business Academy for Youth )
   + Summer 2015
+
 
 
 # Seoul National University
