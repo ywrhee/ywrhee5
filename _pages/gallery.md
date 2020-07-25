@@ -9,7 +9,7 @@ sidebar:
   nav: sidebar-gallery
 ---
 
-I enjoy photography and am also interested in cameras, which motivated my research on innovation and recurring shifts in industrial leadership in the camera market, appeared in [Research Policy (2017)](https://www.sciencedirect.com/science/article/pii/S004873331630138X).
+I enjoy photography and am also interested in cameras, which motivated my research on innovation and recurring shifts in industrial leadership in the camera market, appeared in [*Research Policy* (2017)](https://www.sciencedirect.com/science/article/pii/S004873331630138X).
 
 ## Yellowstone National Park
 
