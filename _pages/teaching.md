@@ -22,10 +22,10 @@ sidebar:
 + **Competitive Strategy**, *Teaching Assistant* (EWMBA299)
   + Fall 2016 & Fall 2015
 
-+ **Entrepreneurship and Technology Commercialization Program**, *Guest Lecturer*<br />
-  <sub>(*This event was organized by Hanyang University and Korean government and held at UC Berkeley campus*)
++ **Entrepreneurship and Technology Commercialization Program**, *Guest Lecturer*<br />  
   + Fall 2016 ("Product Market Competition and Incentivizing Technological Innovation")
   + Fall 2015 ("Silicon Valley: Entrepreneurship and Worker Mobility")
+  + Note: this event was organized by Hanyang University and Korean government and held at UC Berkeley campus
 
 + **Game Theory and Entrepreneurship**, *Guest Lecturer* ("B-BAY," Berkeley Business Academy for Youth )
   + Summer 2015<br/><br/>
