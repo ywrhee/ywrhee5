@@ -111,7 +111,9 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   font-style: italic;
-  border-left: 0.25em solid $primary-color;
+  font-size: 16px; /* Added by HK */
+  border-left: 0.1em solid lightgray; /* 0.25em solid $primary-color; HK */
+  margin-block-start: 0.75em; /* added by HK */
 
   cite {
     font-style: italic;
