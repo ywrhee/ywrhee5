@@ -189,7 +189,6 @@
   position: relative;
   cursor: pointer;
   font-size: $type-size-4; /* HK */
-  margin-bottom: 0.25em; /* HK */
   
   li:last-child {
     a {
@@ -303,6 +302,7 @@
 
   li {
     white-space: nowrap;
+    margin-bottom: 0.25em; /* HK */
   }
 
   a {
