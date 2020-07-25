@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: index
+    url: https://hyokang.com
   - title: "Research"
     url: /research/
   - title: "Teaching"
