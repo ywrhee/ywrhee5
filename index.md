@@ -4,6 +4,10 @@ classes: wide
 author_profile: true
 ---
 
+### Welcome!
+
+I am an assistant profesosr
+
 My research interest broadly lies in firm strategy and business economics, with a focus on innovation and entrepreneurship.
 + The key question in my research is how firms strategically manage their innovation processes and outcomes in response to ever-changing business environments.
 + I explore three different types of competition and how relevant policies reshape firm innovation strategies.
