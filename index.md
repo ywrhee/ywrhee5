@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-<p class="notice">My research interest broadly lies in firm strategy and business economics, with a focus on innovation and entrepreneurship.</p>
+### <p class="notice">My research interest broadly lies in firm strategy and business economics, with a focus on innovation and entrepreneurship.</p>
 + The key question in my research is how firms strategically manage their innovation processes and outcomes in response to ever-changing business environments.
 + I explore three different types of competition:
   1. Product market competition
