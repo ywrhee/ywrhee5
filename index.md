@@ -11,5 +11,6 @@ My research interest broadly lies in firm strategy and business economics, with 
 + I explore three different types of competition and how relevant policies reshape firm innovation strategies.
   1. Product market competition
   2. Competition for labor forces, and
-  3. Competition for innovation and intellectual property rights<br /><br />
+  3. Competition for innovation and intellectual property rights
+<br />
 <a href="/assets/pdf/CV-Hyo-Kang.pdf" class="btn btn--warning" target="_blank">Curriculum Vitae</a>
