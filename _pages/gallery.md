@@ -45,15 +45,15 @@ sidebar:
 # Seoul
 
 <figure class="third">
-	<img src="/assets/images/Seoul-1.png">
-	<img src="/assets/images/Seoul-2.png">
-	<img src="/assets/images/Seoul-3.png">
+	<img src="/assets/images/Seoul-1.jpg">
+	<img src="/assets/images/Seoul-2.jpg">
+	<img src="/assets/images/Seoul-3.jpg">
 	<figcaption>Cheonggyecheon, Seoul National University Business School (Seoul, South Korea)</figcaption>
 </figure>
 
 # Italy
 
 <figure>
-	<img src="/assets/images/ITALY.png">
+	<img src="/assets/images/ITALY.jpg">
 	<figcaption>Cinque Terre, Italy</figcaption>
 </figure>
