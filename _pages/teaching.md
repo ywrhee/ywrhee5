@@ -15,9 +15,7 @@ sidebar:
 + **Strategic Management**, *Instructor* (BUAD497)
   + Fall 2020 <a href="https://classes.usc.edu/term-20203/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
   + Fall 2019 <a href="https://classes.usc.edu/term-20193/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
-  <a href="https://web-app.usc.edu/soc/syllabus/20193/15102.pdf" class="btn btn--warning btn--small">Syllabus</a>
-
-<br/>
+  <a href="https://web-app.usc.edu/soc/syllabus/20193/15102.pdf" class="btn btn--warning btn--small">Syllabus</a><br/>
 
 # University of California, Berkeley
 
@@ -30,9 +28,7 @@ sidebar:
   + Fall 2015 ("Silicon Valley: Entrepreneurship and Worker Mobility")
 
 + **Game Theory and Entrepreneurship**, *Guest Lecturer* ("B-BAY," Berkeley Business Academy for Youth )
-  + Summer 2015
-<br/>
-
+  + Summer 2015<br/>
 
 # Seoul National University
 
