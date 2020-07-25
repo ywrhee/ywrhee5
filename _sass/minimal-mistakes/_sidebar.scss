@@ -154,6 +154,11 @@
   a {
     color: inherit;
     text-decoration: none;
+    
+    &:hover { /* this part added by HK */
+      text-decoration: underline;
+    }
+    
   }
 }
 
