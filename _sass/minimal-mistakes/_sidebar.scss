@@ -302,11 +302,12 @@
 
   li {
     white-space: nowrap;    
+    margin-bottom: 0; /* added by HK */
   }
 
   a {
     display: block;
-    margin-bottom: 1px; /* default: 5px, added by HK */
+    margin-bottom: 1px; /* default: 5px, modified by HK */
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
