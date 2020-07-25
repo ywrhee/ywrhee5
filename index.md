@@ -4,7 +4,6 @@ classes: wide
 author_profile: true
 ---
 
-<img src="https://www.marshall.usc.edu/themes/custom/usc_base/logo.svg" width="300" style="float:right">
 
 ### Welcome!
 <br />
@@ -16,5 +15,5 @@ My research interest broadly lies in firm strategy and business economics, with 
   3. Competition for innovation and intellectual property rights  
 
 <br />
-
+<img src="https://www.marshall.usc.edu/themes/custom/usc_base/logo.svg" width="250" style="float:right">
 <!--<a href="/assets/pdf/CV-Hyo-Kang.pdf" class="btn btn--warning" target="_blank">Curriculum Vitae</a>-->
