@@ -122,7 +122,7 @@
   display: table-cell;
   vertical-align: top;
   width: 240px; /* changed */
-  height: 360px; /* changed */
+  height: 320px; /* changed */
 
   @include breakpoint($large) {
     display: block;
