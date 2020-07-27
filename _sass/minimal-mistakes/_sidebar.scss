@@ -213,6 +213,7 @@
   button {
     position: relative;
     margin-bottom: 0;
+    display: none; /* added by HK */
 
     &:before {
       @supports (pointer-events: none) {
@@ -239,7 +240,7 @@
 }
 
 .author__urls {
-  display: none;
+  display: block; /* none by HK */
   position: absolute;
   right: 0;
   margin-top: 15px;
