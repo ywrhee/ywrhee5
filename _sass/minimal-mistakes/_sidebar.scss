@@ -202,7 +202,7 @@
 
   .author__urls {
     span.label {
-      padding-left: 5px;
+      padding-left: 0px; /* 5px */
     }
   }
 
@@ -305,7 +305,8 @@
   }
 
   li {
-    white-space: nowrap;    
+    white-space: normal; /* default: nowrap */
+    overflow-wrap: break-word; /* added by HK */
     margin-bottom: 0; /* added by HK */
   }
 
