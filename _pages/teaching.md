@@ -42,6 +42,6 @@ sidebar:
   <label for="toggle">Teaching</label>
   <div class="expand">
     <section>
-      <p>Details</p>
+      <p>Details<br>Details</p>
     </section>
   </div>
