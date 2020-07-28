@@ -49,13 +49,9 @@ sidebar:
   <input id="abstract1" name="accordion-toc" type="checkbox" />
   <label for="abstract1">Abstract</label>
   <ul class="nav__items">
-    abcd
+
       <li>
-        {% if nav.url %}
-          <a href="{{ nav.url | relative_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
-        {% else %}
-          <span class="nav__sub-title">{{ nav.title }}</span>
-        {% endif %}
+        > abstract
 
   </ul>
 </nav>
