@@ -37,21 +37,7 @@ sidebar:
 
 + **Theories of Strategy in the Global Knowledge-based Economy**, *Teaching Assistant* (MS/PhD Core Class)
   + Spring 2011
-
-<input id="toggle" type="checkbox" checked class="toggle">
-  <label for="toggle">Teaching</label>
-  <div class="expand">
-      <p>Details<br>Details</p>
-  </div>
-
-a
-
-<nav class="nav__list"> 
-  <input id="abstract1" name="accordion-toc" type="checkbox" />
-  <label for="abstract1">Abstract</label>
-     {% if nav.url %}
-          abcd
-        {% else %}
-          <span class="nav__sub-title">{{ nav.title }}</span>
-        {% endif %}
-</nav>
+<br>
+<br>
+<br>
+<br>
