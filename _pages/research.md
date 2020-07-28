@@ -27,9 +27,11 @@ sidebar:
   <blockquote>Most research on non‐competes has focused on employees; here we study how non‐competes affect firm location choice, growth, and consequent regional concentration, using Florida's 1996 legislative change that eased restrictions on their enforcement. Difference‐in‐differences models show that following the change, establishments of large firms were more likely to enter Florida; they also created a greater proportion of jobs and increased their share of employment in the state. Entrepreneurs or establishments of small firms, in contrast, were less likely to enter Florida following the law change; they also created a smaller proportion of new jobs and decreased their share of employment. Consistent with these location and job creation dynamics, regional business concentration increased following the law change in Florida. Nationwide cross‐sections demonstrate consistent correlations between state‐level non‐compete enforcement and the location, employment, and concentration dynamics illustrated in Florida.</blockquote>
   </details>
 
+<h1>h1</h1>
+<h3>h3</h3>
 
 <details>
-<summary><font size=3 color="gray">Expand</font></summary>
+<summary><h4>Expand</h4></summary>
   
 <blockquote>Most research on non‐competes has focused on employees; here we study how non‐competes affect firm location choice, growth, and consequent regional concentration, using Florida's 1996 legislative change that eased restrictions on their enforcement. Difference‐in‐differences models show that following the change, establishments of large firms were more likely to enter Florida; they also created a greater proportion of jobs and increased their share of employment in the state. Entrepreneurs or establishments of small firms, in contrast, were less likely to enter Florida following the law change; they also created a smaller proportion of new jobs and decreased their share of employment. Consistent with these location and job creation dynamics, regional business concentration increased following the law change in Florida. Nationwide cross‐sections demonstrate consistent correlations between state‐level non‐compete enforcement and the location, employment, and concentration dynamics illustrated in Florida.</blockquote>
 </details>
