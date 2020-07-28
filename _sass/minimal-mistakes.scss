@@ -78,6 +78,8 @@ details > summary {
   font-size: 9pt;
   
   :hover{
+    background-color: lightgray;
+    text-decoration-color: white;
     text-decoration: underline;
   }
 }
