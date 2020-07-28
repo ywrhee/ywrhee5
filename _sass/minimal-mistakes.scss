@@ -119,10 +119,10 @@ abst::before {
   background: url(http://placekitten.com/g/600/300);
   color: #FFF;
 }
-#toggle:checked ~ #expand {
+#toggle:checked + #expand {
   height: 250px;
 }
-#toggle:checked ~ abst::before {
+#toggle:checked + abst::before {
   content: "-";
 }
 
