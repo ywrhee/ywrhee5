@@ -58,10 +58,17 @@ sidebar:
   <p>Classes</p>
 </div>
 
-<button class="btn btn-primary collapsed" data-toggle="collapse" data-target="#ce1"></button>
+<button class="btn btn-primary collapsed" data-toggle="collapse" data-target="#ce1">teaching3</button>
 <div class="collapse" id="ce1">
   <div class="card card-body">
     Teach
   </div>
   </div>
   
+<input id="toggle" type="checkbox" checked>
+  <abst for="toggle">Teaching 4</label>
+  <div id="expand">
+    <section>
+      <p>Teach</p>
+    </section>
+  </div>
