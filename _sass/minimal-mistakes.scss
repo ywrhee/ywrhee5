@@ -62,29 +62,30 @@ a:-webkit-any-link {
   text-decoration-style: dotted;
 }
 
-/* Collapsible HK */
-label {
+/* "Details" customization */
+details {
+  font: 16px "Open Sans", Calibri, sans-serif;
+  width: 620px;
 }
-label:hover {
-  color: blue;
+
+details > summary {
+  padding: 2px 6px;
+  width: 15em;
+  background-color: #ddd;
+  border: none;
+  box-shadow: 3px 3px 4px black;
+  cursor: pointer;
+  list-style: none;
 }
-label::before {
-  content: "+";
-  vertical-align: text-top;
-  display: inline-block;
-  /* width: 20px;
-  height: 20px;
-  margin-right: 3px;  */
+
+details > summary::-webkit-details-marker {
+  display: none;
 }
-.expand {
-  height: 0px;
-  overflow: hidden;
-  transition: height 0.25s;
-  /* color: black; */
-}
-.toggle:checked + label + .expand {
-  height: auto;
-}
-.toggle:checked + label::before {
-  content: "-";
+
+details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: #ddd;
+  padding: 2px 6px;
+  margin: 0;
+  box-shadow: 3px 3px 4px black;
 }
