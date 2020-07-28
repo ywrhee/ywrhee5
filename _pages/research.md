@@ -27,6 +27,7 @@ sidebar:
   > Most research on non‐competes has focused on employees; here we study how non‐competes affect firm location choice, growth, and consequent regional concentration, using Florida's 1996 legislative change that eased restrictions on their enforcement. Difference‐in‐differences models show that following the change, establishments of large firms were more likely to enter Florida; they also created a greater proportion of jobs and increased their share of employment in the state. Entrepreneurs or establishments of small firms, in contrast, were less likely to enter Florida following the law change; they also created a smaller proportion of new jobs and decreased their share of employment. Consistent with these location and job creation dynamics, regional business concentration increased following the law change in Florida. Nationwide cross‐sections demonstrate consistent correlations between state‐level non‐compete enforcement and the location, employment, and concentration dynamics illustrated in Florida.
   </details>
 
+
 + **Blending Talents for Innovation: Team Composition for Cross-border R&D Collaboration Within Multinational Corporations**.  
 *Journal of International Business Studies* 51: 851-885. 2020. Seo, E., Kang, H., & Song, J.
 <span style="float:right">
@@ -76,21 +77,5 @@ Working paper. 2018. Sull, D., Kang, H., & Thompson, N.
 + **How Did the Terms of Protection Affect Patenting and Innovation Activities?**.  
 Work in progress (draft available upon request). 2019. Kang, H.
 
-<a href="#hide" id="hide">Show</a>
-<a href="#" id="show">Hide</a>
-<div id="answer"><p>Answer</p></div>
 
-<p>
-  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-    Link with href
-  </a>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Button with data-target
-  </button>
-</p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
-    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-  </div>
-</div>
 
