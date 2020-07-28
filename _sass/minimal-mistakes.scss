@@ -64,13 +64,4 @@ a:-webkit-any-link {
 
 /* collapsible */
 
-#answer,
-#show,
-#hide:target {
-    display: none; 
-}
-
-#hide:target + #show,
-#hide:target ~ #answer {
-    display: inherit; 
-}
+.collapse:not(.show){display:none}.collapsing{position:relative;height:0;overflow:hidden;transition:height .35s ease}@media (prefers-reduced-motion:reduce){.collapsing{transition:none}}
