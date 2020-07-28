@@ -61,3 +61,16 @@ html {
 a:-webkit-any-link {
   text-decoration-style: dotted;
 }
+
+/* collapsible */
+
+#answer,
+#show,
+#hide:target {
+    display: none; 
+}
+
+#hide:target + #show,
+#hide:target ~ #answer {
+    display: inherit; 
+}
