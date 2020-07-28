@@ -66,7 +66,7 @@ sidebar:
   </div>
   
 <input id="toggle" type="checkbox" checked>
-  <abst for="toggle">Teaching 4</label>
+  <abst for="toggle">Teaching 4</abst>
   <div id="expand">
     <section>
       <p>Teach</p>
