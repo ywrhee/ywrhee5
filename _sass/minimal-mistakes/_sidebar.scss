@@ -249,7 +249,7 @@
   list-style-type: none;
   border: 0px solid $border-color; /* 1px */
   border-radius: $border-radius;
-  background: $background-color;
+  background: transparent; /* HK */
   /* box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12); HK */
   cursor: default;  
   font-size: $h-size-3; /* $type-size-4 added by HK */
@@ -269,7 +269,7 @@
   }
 
   &:before {
-    display: block;
+    display: none; /* block */
     content: "";
     position: absolute;
     top: -11px;
@@ -286,7 +286,7 @@
   }
 
   &:after {
-    display: block;
+    display: none; /* block */
     content: "";
     position: absolute;
     top: -10px;
