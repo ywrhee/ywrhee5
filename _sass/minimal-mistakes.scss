@@ -78,8 +78,9 @@ details > summary {
   font-size: 9pt;
   
   :hover{
-    color: darkgray;
-    text-decoration: underline;
+    color: black;
+    border-color: black;
+    /* text-decoration: underline; */
   }
 }
 
