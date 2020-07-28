@@ -76,7 +76,8 @@ details > summary {
   cursor: pointer;
   list-style: none;
   font-size: 9pt;
-  @:hover{
+  
+  :hover{
     text-decoration: underline;
   }
 }
