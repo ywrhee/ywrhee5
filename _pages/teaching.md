@@ -44,6 +44,7 @@ sidebar:
       <p>Details<br>Details</p>
   </div>
 
+a
 
 <nav class="nav__list"> 
   <input id="abstract1" name="accordion-toc" type="checkbox" />
@@ -52,5 +53,5 @@ sidebar:
      <li>
        <blockquote>abcd</blockquote>
     </li>
-</ul>
+  </ul>
 </nav>
