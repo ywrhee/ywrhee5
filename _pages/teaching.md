@@ -49,8 +49,6 @@ a
 <nav class="nav__list"> 
   <input id="abstract1" name="accordion-toc" type="checkbox" />
   <label for="abstract1">Abstract</label>
-  <ul class="nav__items">
-    <li>a</li>
-    <li>b</li>
-  </ul>
+  > abcd
+  > efgh
 </nav>
