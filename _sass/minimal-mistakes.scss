@@ -75,3 +75,16 @@ a:-webkit-any-link {
 @media (prefers-reduced-motion:reduce){
   .collapsing{transition:none}
 }
+
+/* Collapsible 2 */
+
+button.btn.collapsed:before{
+    content:'+' ;
+    display:block;
+    width:15px;
+}
+button.btn:before{
+    content:'-' ;
+    display:block;
+    width:15px;
+}
