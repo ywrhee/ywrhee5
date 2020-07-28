@@ -135,7 +135,7 @@ $(document).ready(function() {
   });
 });
 
-// Collapsible
+// Collapsible - Added by HK
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
