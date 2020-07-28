@@ -64,12 +64,21 @@ a:-webkit-any-link {
 
 /* "Details" customization // http://html5doctor.com/the-details-and-summary-elements/ */
 details > summary {
-  padding-top: 0px;
-  padding-bottom: 3px;
-  width: 80px;  
-  border: none; 
+  padding: 1px;
+  margin-top: 2px;
+  margin-bottom: 10px;
+  width: 70px;  
+  border: solid; 
+  border-width: 0.1em;
+  border-radius: 5px;
+  border-color: lightgray;
+  text-align:center
   cursor: pointer;
   list-style: none;
+  font-size: 9pt;
+  @:hover{
+    text-decoration: underline;
+  }
 }
 
 details > summary::-webkit-details-marker {
