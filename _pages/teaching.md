@@ -61,6 +61,7 @@ sidebar:
 <button class="btn btn-primary collapsed" data-toggle="collapse" data-target="#ce1"></button>
 <div class="collapse" id="ce1">
   <div class="card card-body">
+    Teach
   </div>
   </div>
   
