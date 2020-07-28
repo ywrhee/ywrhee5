@@ -45,12 +45,11 @@ sidebar:
   </div>
 
 
-<nav class="nav__list">
-  <h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>
+<nav class="nav__list"> 
   <input id="abstract1" name="accordion-toc" type="checkbox" />
   <label for="abstract1">Abstract</label>
   <ul class="nav__items">
-  
+    abcd
       <li>
         {% if nav.url %}
           <a href="{{ nav.url | relative_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
