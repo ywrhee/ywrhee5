@@ -62,67 +62,29 @@ a:-webkit-any-link {
   text-decoration-style: dotted;
 }
 
-/* collapsible */
-.collapse:not(.show){
-  display:none
+/* Collapsible HK */
+label {
 }
-.collapsing{
-  position:relative;
-  height:0;
-  overflow:hidden;
-  transition:height .35s ease
+label:hover {
+  color: blue;
 }
-@media (prefers-reduced-motion:reduce){
-  .collapsing{transition:none}
-}
-
-/* Collapsible 2 */
-
-button.btn.collapsed:before{
-    content:'+' ;
-    display:block;
-    width:15px;
-}
-button.btn:before{
-    content:'-' ;
-    display:block;
-    width:15px;
-}
-
-/* Collapsible 3 */
-abst {
-  display: block;
-  padding: 0.5em;
-  text-align: center;
-  border-bottom: 1px solid #CCC;
-  color: #666;
-}
-abst:hover {
-  color: #000;
-}
-abst::before {
-  font-family: Consolas, monaco, monospace;
-  font-weight: bold;
-  font-size: 15px;
+label::before {
   content: "+";
   vertical-align: text-top;
   display: inline-block;
-  width: 20px;
+  /* width: 20px;
   height: 20px;
-  margin-right: 3px;
-  background: radial-gradient(ellipse at center, #CCC 50%, transparent 50%);
+  margin-right: 3px;  */
 }
-#expand {
+.expand {
   height: 0px;
   overflow: hidden;
-  transition: height 0.5s;
-  background: url(http://placekitten.com/g/600/300);
-  color: #FFF;
+  transition: height 0.25s;
+  /* color: black; */
 }
-#toggle:checked + #expand {
-  height: 250px;
+.toggle:checked + label + .expand {
+  height: auto;
 }
-#toggle:checked + abst::before {
+.toggle:checked + label::before {
   content: "-";
 }
-
