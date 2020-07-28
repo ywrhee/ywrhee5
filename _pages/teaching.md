@@ -50,6 +50,7 @@ sidebar:
   <label for="abstract1">Abstract</label>
   <ul class="nav__items">
       <li>
+
 > Abstract
   </ul>
 </nav>
