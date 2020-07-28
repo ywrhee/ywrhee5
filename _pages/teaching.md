@@ -50,8 +50,7 @@ a
   <input id="abstract1" name="accordion-toc" type="checkbox" />
   <label for="abstract1">Abstract</label>
   <ul class="nav__items">
-     <li>
-       <blockquote>abcd</blockquote>
-    </li>
+    <li>a</li>
+    <li>b</li>
   </ul>
 </nav>
