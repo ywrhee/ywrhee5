@@ -49,9 +49,7 @@ sidebar:
   <input id="abstract1" name="accordion-toc" type="checkbox" />
   <label for="abstract1">Abstract</label>
   <ul class="nav__items">
-
       <li>
-        > abstract
-
+> Abstract
   </ul>
 </nav>
