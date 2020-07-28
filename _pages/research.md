@@ -31,10 +31,12 @@ sidebar:
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3575878" class="btn btn--info btn--small">SSRN</a>
   <a href="/assets/pdf/SSRN-id3575878.pdf" class="btn btn--danger btn--small">PDF</a>
 </span>
+<span style="float:right">
     <details>
     <summary><font color="gray">Abstract +</font></summary>
       <blockquote>Despite the upsurge in cross-border R&D collaboration within multinational corporations (MNCs), firms often fail to realize the full potential of cross-border R&D teams. We examine under what conditions geographic diversity might lead to higher or lower innovation performance by focusing on the moderating roles of team composition. We first demonstrate that the geographic diversity of an MNC’s research team has a curvilinear (inverted U-shaped) relationship with the team’s innovation performance. Building upon group learning theory, we further claim that this non-linear relationship is strengthened by the technical experience heterogeneity of researchers but weakened by repeated collaboration among researchers. Our analyses on the top 25 multinational pharmaceutical companies and their 59,998 patents registered from 1981 to 2012 provide strong support for our hypotheses. When geographic diversity is relatively low, teams with different levels of technical experience and more fresh collaborators improve performance by amplifying the benefits of sourcing diverse knowledge. With high geographic dispersion, on the other hand, minimal experience heterogeneity and more instances of past collaboration lead to better performance by facilitating the integration of diverse knowledge. The results shed light on the importance of technical and social relationships among researchers in sourcing and integrating location-specific knowledge and ultimately enhancing team performance.</blockquote>
     </details>
+</span>
 
 + **Innovation and recurring shifts in industrial leadership: Three phases of change and persistence in the camera industry**.  
 *Research Policy* 46(2): 376-387. 2017. Kang, H. & Song, J.
