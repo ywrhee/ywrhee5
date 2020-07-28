@@ -591,3 +591,6 @@ a.reversefootnote {
     position: static;
   }
 }
+
+/* Collapse by HK (Bootstrap) */
+.collapse:not(.show){display:none}
