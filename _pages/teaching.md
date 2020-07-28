@@ -38,37 +38,10 @@ sidebar:
 + **Theories of Strategy in the Global Knowledge-based Economy**, *Teaching Assistant* (MS/PhD Core Class)
   + Spring 2011
 
-
-
-
-
-
-
-
-
-
-
-<button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#demo">Teaching</button>
-  <div id="demo" class="collapse">
-    Classes
-  </div>
-  
-<button type="button" class="collapsible">Teaching 2</button>
-<div class="content">
-  <p>Classes</p>
-</div>
-
-<button class="btn btn-primary collapsed" data-toggle="collapse" data-target="#ce1">teaching3</button>
-<div class="collapse" id="ce1">
-  <div class="card card-body">
-    Teach
-  </div>
-  </div>
-  
-<input id="toggle" type="checkbox" checked>
-  <abst for="toggle">Teaching 4</abst>
-  <div id="expand">
+<input id="toggle" type="checkbox" checked class="toggle">
+  <label for="toggle">Teaching</label>
+  <div class="expand">
     <section>
-      <p>Teach</p>
+      <p>Details</p>
     </section>
   </div>
