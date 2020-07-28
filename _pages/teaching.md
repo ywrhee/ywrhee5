@@ -49,8 +49,9 @@ a
 <nav class="nav__list"> 
   <input id="abstract1" name="accordion-toc" type="checkbox" />
   <label for="abstract1">Abstract</label>
-  <ul>
-    <li>d</li>
-    <li>d</li>
-  </ul>
+     {% if nav.url %}
+          abcd
+        {% else %}
+          <span class="nav__sub-title">{{ nav.title }}</span>
+        {% endif %}
 </nav>
