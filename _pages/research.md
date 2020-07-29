@@ -54,21 +54,37 @@ sidebar:
 USC Marshall School of Business Research Paper. 2020. Kang, H.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/SSRN-id3516974.pdf" class="btn btn--danger btn--small">PDF</a></span>
+  <details>
+  <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>This paper examines how market competition affects the intensity and breadth of innovation. I assembled a unique dataset comprising all 461 prosecuted collusion cases in the U.S. from 1975-2016, where I match 1,818 collusive firms to firm-level data on innovation. Empirical results from a difference-in-difference methodology show a negative causal relationship between price competition and innovation. When collusion suppressed price competition, colluding firms increased patent filings by 48% and top-quality patents by 33%. A significant portion of these patents are attributable to fundamental innovation activities as innovation inputs measured by R&D investment and patenting inventors increased in tandem by 18% and 57%, respectively. Furthermore, firms broadened the scope of innovation by exploring new technological areas; the number of patented technology classes increased by 30%. When competition was restored by collusion breakdown, the increased and broadened innovation activities reverted back to previous levels. I shed light on financial constraints and industry growth rate as key economic mechanisms behind the trade-off between price competition and innovation growth.</blockquote>
+  </details>
 
 + **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on Worker Mobility**.  
 USC Marshall School of Business Research Paper. 2020. Kang, H. & Lee, Y.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/SSRN-id3171829.pdf" class="btn btn--danger btn--small">PDF</a></span>
+  <details>
+  <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>Innovating firms face a risk of knowledge leakage as their workers can exit employment to join competitors. We study worker mobility as the key mechanism through which firms decide on strategies to protect innovation outputs. Our empirical analysis exploits a 1998 court case decision whereby the California Courts of Appeal ruled that out-of-state non-compete agreements are not enforceable in California. Consequently, non-California firms faced a loophole in the enforcement of non-competes for their previously bound workers. When facing the higher mobility of existing workers, firms strategically increase patent filings as a means of knowledge protection. Further tests support our theoretical account that worker mobility plays a crucial role in patenting decisions. The importance of worker mobility and leakage-by-leaving problem has significant scholarly and managerial implications.</blockquote>
+  </details>
 
 + **The Close Relationship Between Management Practices and Corporate Culture**.  
 Working paper. 2019. Sull, D., Kang, H., & Thompson, N.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3462116" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/SSRN-id3462116.pdf" class="btn btn--danger btn--small">PDF</a></span>
+  <details>
+  <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>A growing body of literature finds that a healthy corporate culture is associated with superior financial performance. A separate stream of research has found that a firm’s adoption of management “best practices” is correlated with higher efficiency and productivity. To date, the cultural and management practices literatures have proceeded in parallel, with few studies considering the relationship between an organization’s processes and its culture. This paper uses data from a carefully-designed survey of 370 organizations and nearly ten thousand managers to simultaneously measure corporate culture and management practices. Our key finding is that the quality of a company’s management practices and health of its corporate culture are highly correlated. This implies that studies which measure either culture or processes in isolation are likely to overstate their impact on performance. We also provide suggestive evidence that management practices may cause changes in corporate culture, or at least that this effect is stronger than the reverse.</blockquote>
+  </details>
 
 + **Tradeoffs in Firm Culture? Nope, You Can Have It All**.  
 Working paper. 2018. Sull, D., Kang, H., & Thompson, N.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3228167" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/SSRN-id3228167.pdf" class="btn btn--danger btn--small">PDF</a></span>
+  <details>
+  <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>A firm can exhibit many “good” cultural values, for example collaboration, integrity, or ambition. Influential theories of corporate culture claim that firms must choose which cultural values to foster because of inherent trade-offs between them. This paper tests this proposition using a new survey of managers (370 firms, averaging 27 respondents each). We find no evidence of trade-offs. To the contrary, we find that firms that score higher on one cultural value also tend to score higher on others. Our findings suggest that any inherent trade-offs are outweighed by the ability of good management practices to help a firm excel across many cultural values.</blockquote>
+  </details>
 
 # Works-in-progress
 
