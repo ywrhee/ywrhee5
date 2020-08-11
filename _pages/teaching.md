@@ -14,7 +14,7 @@ sidebar:
 
 + **Strategic Management**, *Instructor* (BUAD497)
   + Fall 2020 <a href="https://classes.usc.edu/term-20203/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
-  <a href="https://web-app.usc.edu/soc/syllabus/20203/15106.pdf" class="btn btn--warning btn--small">Syllabus</a><br><br>
+  <a href="https://web-app.usc.edu/soc/syllabus/20203/15106.pdf" class="btn btn--warning btn--small">Syllabus</a>
   + Fall 2019 <a href="https://classes.usc.edu/term-20193/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
   <a href="https://web-app.usc.edu/soc/syllabus/20193/15106.pdf" class="btn btn--warning btn--small">Syllabus</a><br><br>
 
