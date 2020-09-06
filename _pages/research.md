@@ -51,7 +51,7 @@ sidebar:
 # Working Papers
 
 + **How Does Competition Affect Innovation? Evidence from U.S. Antitrust Cases**.  
-USC Marshall School of Business Research Paper. 2020. Kang, H.
+*Revise and Resubmit*. 2020. Kang, H.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/SSRN-id3516974.pdf" class="btn btn--danger btn--small">PDF</a></span>
   <details>
@@ -60,7 +60,7 @@ USC Marshall School of Business Research Paper. 2020. Kang, H.
   </details>
 
 + **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on Worker Mobility**.  
-USC Marshall School of Business Research Paper. 2020. Kang, H. & Lee, Y.
+*Under Review*. 2020. Kang, H. & Lee, Y.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/SSRN-id3171829.pdf" class="btn btn--danger btn--small">PDF</a></span>
   <details>
