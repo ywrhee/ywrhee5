@@ -20,7 +20,7 @@ title                    : "Hyo Kang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyo Kang"
-description              : "Assistant Professor of Management and Organization, Marshall School of Business, University of Southern California. Studies competitive strategy, strategic management, the economics of innovation, technological innovation, knowledge management, mobility of workers and businesses, and business law and policy."
+description              : "Assistant Professor of Management and Organization, Marshall School of Business, University of Southern California. Research Affiliate, MIT Initiative on the Digital Economy. Studies competitive strategy, strategic management, the economics of innovation, technological innovation, knowledge management, mobility of workers and businesses, and business law and policy."
 url                      : "https://hyokang.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hyokangs/hyokangs.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Hyo Kang"
   avatar           : "/assets/images/HyoKang.jpg"
-  bio              : "*Assistant Professor*<br />Marshall School of Business<br />University of Southern California"
+  bio              : "*Assistant Professor*<br />Marshall School of Business<br />University of Southern California<br /><br />Research Affiliate<br />MIT Initiative on the Digital Economy"
   location         : #"Los Angeles, CA"
   email            : 
   links:
