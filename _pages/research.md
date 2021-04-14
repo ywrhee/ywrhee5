@@ -60,13 +60,13 @@ sidebar:
   </details>
 
 + **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on Worker Mobility**.  
-*Revise and Resubmit (R&R)*. 2020. Kang, H. & Lee, Y.
+*Revise and Resubmit (R&R)*. 2021. Kang, H. & Lee, Y.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/Kang-Lee-2021-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
 <a href="/assets/pdf/Kang-Lee-2021-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
   <details>
   <summary><font color="gray">Abstract +</font></summary>
-    <blockquote>Innovating firms face a risk of knowledge leakage as their workers can exit employment to join competitors. We study worker mobility as the key mechanism through which firms decide on strategies to protect innovation outputs. Our empirical analysis exploits a 1998 court case decision whereby the California Courts of Appeal ruled that out-of-state non-compete agreements are not enforceable in California. Consequently, non-California firms faced a loophole in the enforcement of non-competes for their previously bound workers. When facing the higher mobility of existing workers, firms strategically increase patent filings as a means of knowledge protection. Further tests support our theoretical account that worker mobility plays a crucial role in patenting decisions. The importance of worker mobility and leakage-by-leaving problem has significant scholarly and managerial implications.</blockquote>
+    <blockquote>Innovating firms face a risk of knowledge leakage as their workers can join competitors. We study the threat of worker departure as the key mechanism through which firms decide on knowledge protection strategies. Our empirical analysis exploits a milestone court decision in 1998 whereby the California Court of Appeal ruled that out-of-state noncompetes are not enforceable in California. Consequently, non-California firms faced a loophole in the enforcement of noncompetes for their workers. When facing a higher threat of worker departure, firms strategically increase patent filings as a means of knowledge protection. The effects are magnified for large-sized firms and those in complex product industries. Further tests on the possession of trade secrets, physical proximity, migration rate, and industry dissimilarity to California support our theoretical account.</blockquote>
   </details>
 
 + **The Close Relationship Between Management Practices and Corporate Culture**.  
