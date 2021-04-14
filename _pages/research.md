@@ -62,7 +62,8 @@ sidebar:
 + **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on Worker Mobility**.  
 *Revise and Resubmit (R&R)*. 2020. Kang, H. & Lee, Y.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
-<a href="/assets/pdf/SSRN-id3171829.pdf" class="btn btn--danger btn--small">PDF</a></span>
+<a href="/assets/pdf/Kang-Lee-2021-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
+<a href="/assets/pdf/Kang-Lee-2021-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
   <details>
   <summary><font color="gray">Abstract +</font></summary>
     <blockquote>Innovating firms face a risk of knowledge leakage as their workers can exit employment to join competitors. We study worker mobility as the key mechanism through which firms decide on strategies to protect innovation outputs. Our empirical analysis exploits a 1998 court case decision whereby the California Courts of Appeal ruled that out-of-state non-compete agreements are not enforceable in California. Consequently, non-California firms faced a loophole in the enforcement of non-competes for their previously bound workers. When facing the higher mobility of existing workers, firms strategically increase patent filings as a means of knowledge protection. Further tests support our theoretical account that worker mobility plays a crucial role in patenting decisions. The importance of worker mobility and leakage-by-leaving problem has significant scholarly and managerial implications.</blockquote>
