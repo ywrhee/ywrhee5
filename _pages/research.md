@@ -89,7 +89,7 @@ Working paper. 2018. Sull, D., Kang, H., & Thompson, N.
 
 # Works-in-progress
 
-+ **How Did the Terms of Protection Affect Patenting and Innovation Activities?**.  
++ **How Did the Terms of Protection Affect Patenting and Innovation Activities?**  
 Work in progress (draft available upon request). 2019. Kang, H.
 
 <br><br><br><br>
