@@ -14,7 +14,7 @@ I enjoy photography and am also interested in cameras, which motivated my resear
 ## Yellowstone National Park
 
 <figure class="half">
-	<img src="/assets/images/YSN-3.jpg">
+  <a href=""/assets/images/YSN-3.jpg""><img src="/assets/images/YSN-3.jpg"></a>
   <img src="/assets/images/YSN-4.jpg">
 	<!--<figcaption>Yellowstone National Park</figcaption>-->
 </figure>
