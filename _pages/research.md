@@ -69,6 +69,15 @@ sidebar:
     <blockquote>Innovating firms face a risk of knowledge leakage as their workers can join competitors. We study the threat of worker departure as the key mechanism through which firms decide on knowledge protection strategies. Our empirical analysis exploits a milestone court decision in 1998 whereby the California Court of Appeal ruled that out-of-state noncompetes are not enforceable in California. Consequently, non-California firms faced a loophole in the enforcement of noncompetes for their workers. When facing a higher threat of worker departure, firms strategically increase patent filings as a means of knowledge protection. The effects are magnified for large-sized firms and those in complex product industries. Further tests on the possession of trade secrets, physical proximity, migration rate, and industry dissimilarity to California support our theoretical account.</blockquote>
   </details>
 
++ **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program**.  
+Working paper. 2021. Choi, S., Kim, N., Kim, J., & Kang, H.
+<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893835" class="btn btn--info btn--small">SSRN</a>
+<a href="/assets/pdf/CKKK-AI-Go.pdf" class="btn btn--danger btn--small">PDF</a></span>
+  <details>
+  <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>How does AI improve human decision-making? Answering this question is challenging because it is difficult to assess the quality of each decision and to disentangle AI’s influence on decisions. We study professional Go games, which provide a unique opportunity to overcome such challenges. In 2016 an AI-powered Go program (APG) unexpectedly beat the best human player, surpassing the best human knowledge and skills accumulated over thousands of years. To investigate the impact of APGs, we compare human moves to AI’s superior solutions, before and after the initial public release of an APG. Our analysis of 750,990 moves in 25,033 games by 1,242 professional players reveals that APGs significantly improved the quality of the players’ moves as measured by the changes in winning probability with each move. We also show that the key mechanisms are reductions in the number of human errors and in the magnitude of the most critical mistake during the game. Interestingly, the improvement is most prominent in the early stage of a game when uncertainty is higher. Further, young players—who are more open to and better able to utilize APG—benefit more than senior players, suggesting generational inequality in AI adoption and utilization.</blockquote>
+  </details>
+
 + **The Close Relationship Between Management Practices and Corporate Culture**.  
 Working paper. 2019. Sull, D., Kang, H., & Thompson, N.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3462116" class="btn btn--info btn--small">SSRN</a>
