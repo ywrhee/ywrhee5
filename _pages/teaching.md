@@ -16,7 +16,7 @@ sidebar:
   + Fall 2021 <a href="https://classes.usc.edu/term-20213/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
   <a href="https://web-app.usc.edu/soc/syllabus/20213/15099.pdf" class="btn btn--warning btn--small">Syllabus</a>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqQtdB7KRP8e2PTjkS_71FRxXP5ipo4zP_OZyYkKtKZE-47Q/viewform?usp=sf_link" class="btn btn--primary btn--small">Participation</a>
-  + Fall 2020 <a href="https://classes.usc.edu/term-20203/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
+  + Fall 2020 <a href="https://classes.usc.edu/term-20203/course/buad-497/" class="btn btn--small">Schedule</a>
   <a href="https://web-app.usc.edu/soc/syllabus/20203/15106.pdf" class="btn btn--warning btn--small">Syllabus</a>
   + Fall 2019 <a href="https://classes.usc.edu/term-20193/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
   <a href="https://web-app.usc.edu/soc/syllabus/20193/15106.pdf" class="btn btn--warning btn--small">Syllabus</a><br><br>
