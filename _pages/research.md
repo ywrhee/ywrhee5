@@ -50,10 +50,11 @@ sidebar:
 
 # Working Papers
 
-+ **How Does Competition Affect Innovation? Evidence from U.S. Antitrust Cases**.  
-*Revise and Resubmit (R&R)*. 2020. Kang, H.
++ **How Does Price Competition Affect Innovation? Evidence from US Antitrust Cases**.  
+*Revise and Resubmit (R&R)*. 2021. Kang, H.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
-<a href="/assets/pdf/SSRN-id3516974.pdf" class="btn btn--danger btn--small">PDF</a></span>
+<a href="/assets/pdf/Kang-2021-Price Competition and Innovation-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a></span>
+<a href="/assets/pdf/Kang-2021-Price Competition and Innovation-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
   <details>
   <summary><font color="gray">Abstract +</font></summary>
     <blockquote>This paper examines how market competition affects the intensity and breadth of innovation. I assembled a unique dataset comprising all 461 prosecuted collusion cases in the U.S. from 1975-2016, where I match 1,818 collusive firms to firm-level data on innovation. Empirical results from a difference-in-difference methodology show a negative causal relationship between price competition and innovation. When collusion suppressed price competition, colluding firms increased patent filings by 48% and top-quality patents by 33%. A significant portion of these patents are attributable to fundamental innovation activities as innovation inputs measured by R&D investment and patenting inventors increased in tandem by 18% and 57%, respectively. Furthermore, firms broadened the scope of innovation by exploring new technological areas; the number of patented technology classes increased by 30%. When competition was restored by collusion breakdown, the increased and broadened innovation activities reverted back to previous levels. I shed light on financial constraints and industry growth rate as key economic mechanisms behind the trade-off between price competition and innovation growth.</blockquote>
