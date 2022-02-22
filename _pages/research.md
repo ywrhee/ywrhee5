@@ -13,7 +13,7 @@ sidebar:
 # Publications
 
 + **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on the Threat of Worker Departure**.  
-Conditional Accept, *Strategic Management Journal*. 2022. Kang, H. & Lee, Y.
+Conditional Accept. 2022. Kang, H. & Lee, Y.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
   <a href="/assets/pdf/Kang-Lee-2021-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
   <a href="/assets/pdf/Kang-Lee-2021-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
@@ -55,7 +55,7 @@ Conditional Accept, *Strategic Management Journal*. 2022. Kang, H. & Lee, Y.
 # Working Papers
 
 + **How Does Price Competition Affect Innovation? Evidence from US Antitrust Cases**.  
-Second-round Revise and Resubmit, *Management Science*. 2021. Kang, H.
+2nd Revise and Resubmit. 2021. Kang, H.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/Kang-2021-Price Competition and Innovation-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
 <a href="/assets/pdf/Kang-2021-Price Competition and Innovation-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
