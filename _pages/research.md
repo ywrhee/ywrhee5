@@ -12,16 +12,6 @@ sidebar:
 
 # Publications
 
-+ **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on the Threat of Worker Departure**.  
-Conditional Accept. 2022. Kang, H. & Lee, Y.
-<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
-  <a href="/assets/pdf/Kang-Lee-2021-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
-  <a href="/assets/pdf/Kang-Lee-2021-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
-  <details>
-  <summary><font color="gray">Abstract +</font></summary>
-    <blockquote>Innovating firms face a risk of knowledge leakage as their workers can join competitors. We study the threat of worker departure as the key mechanism through which firms decide on knowledge protection strategies. Our empirical analysis exploits a milestone court decision in 1998 whereby the California Court of Appeal ruled that out-of-state noncompetes are not enforceable in California. Consequently, non-California firms faced a loophole in the enforcement of noncompetes for their workers. When facing a higher threat of worker departure, firms strategically increase patent filings as a means of knowledge protection. The effects are magnified for large-sized firms and those in complex product industries. Further tests on the possession of trade secrets, physical proximity, migration rate, and industry dissimilarity to California support our theoretical account.</blockquote>
-  </details>
-
 + **Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study**.  
 *Journal of Economics & Management Strategy* 29(3): 663-685. 2020. Kang, H. & Fleming, L.
 <span style="float:right"><a href="http://dx.doi.org/10.1111/jems.12349" class="btn btn--warning btn--small">Journal</a>
@@ -54,6 +44,16 @@ Conditional Accept. 2022. Kang, H. & Lee, Y.
 
 # Working Papers
 
++ **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on the Threat of Worker Departure**.  
+Conditional Accept. 2022. Kang, H. & Lee, Y.
+<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
+  <a href="/assets/pdf/Kang-Lee-2021-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
+  <a href="/assets/pdf/Kang-Lee-2021-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
+  <details>
+  <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>Innovating firms face a risk of knowledge leakage as their workers can join competitors. We study the threat of worker departure as the key mechanism through which firms decide on knowledge protection strategies. Our empirical analysis exploits a milestone court decision in 1998 whereby the California Court of Appeal ruled that out-of-state noncompetes are not enforceable in California. Consequently, non-California firms faced a loophole in the enforcement of noncompetes for their workers. When facing a higher threat of worker departure, firms strategically increase patent filings as a means of knowledge protection. The effects are magnified for large-sized firms and those in complex product industries. Further tests on the possession of trade secrets, physical proximity, migration rate, and industry dissimilarity to California support our theoretical account.</blockquote>
+  </details>
+  
 + **How Does Price Competition Affect Innovation? Evidence from US Antitrust Cases**.  
 2nd Revise and Resubmit. 2021. Kang, H.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
