@@ -13,8 +13,9 @@ sidebar:
 # Publications
 
 + **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on the Threat of Worker Departure**.  
-*Strategic Management Journal*, Accepted for Publication. 2022. Kang, H. & Lee, Y.
-<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
+*Strategic Management Journal*, Accepted for Publication. 2022. Kang, H. & Lee, W.
+<span style="float:right"><a href="https://doi.org/10.1002/smj.3404" class="btn btn--warning btn--small">Journal</a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
   <a href="/assets/pdf/Kang-Lee-2021-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
   <a href="/assets/pdf/Kang-Lee-2021-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
   <details>
@@ -24,7 +25,7 @@ sidebar:
   
 + **Non-competes, Business Dynamism, and Concentration: Evidence from a Florida Case Study**.  
 *Journal of Economics & Management Strategy* 29(3): 663-685. 2020. Kang, H. & Fleming, L.
-<span style="float:right"><a href="http://dx.doi.org/10.1111/jems.12349" class="btn btn--warning btn--small">Journal</a>
+<span style="float:right"><a href="https://doi.org/10.1111/jems.12349" class="btn btn--warning btn--small">Journal</a>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3172477" class="btn btn--info btn--small">SSRN</a>
   <a href="/assets/pdf/SSRN-id3172477.pdf" class="btn btn--danger btn--small">PDF</a></span>
     <details>
