@@ -12,7 +12,7 @@ sidebar:
 
 # University of Southern California
 
-+ **Causal Inference Research Methods**, "Instructor* (GSBA603)
++ **Causal Inference Research Methods**, *Instructor* (GSBA603)
   + Fall 2022 (scheduled)
 
 + **Strategic Management**, *Instructor* (BUAD497)
