@@ -13,11 +13,10 @@ sidebar:
 # Publications
 
 + **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on the Threat of Worker Departure**.  
-*Strategic Management Journal*, Accepted for Publication. 2022. Kang, H. & Lee, W.
+*Strategic Management Journal*, Accepted & Published Online. 2022. Kang, H. & Lee, W.
 <span style="float:right"><a href="https://doi.org/10.1002/smj.3404" class="btn btn--warning btn--small">Journal</a>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3171829" class="btn btn--info btn--small">SSRN</a>
-  <a href="/assets/pdf/Kang-Lee-2021-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
-  <a href="/assets/pdf/Kang-Lee-2021-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
+  <a href="/assets/pdf/Kang-Lee-2022-Combined.pdf" class="btn btn--danger btn--small">PDF</a>
   <details>
   <summary><font color="gray">Abstract +</font></summary>
     <blockquote>Knowledge protection strategies are crucial to innovating firms facing the risk of knowledge leakage. We examine the threat of worker departure as a key mechanism through which firms choose between patents and secrecy. We exploit a 1998 California court decision that ruled out-of-state noncompetes were not enforceable in California, thereby creating a loophole limiting non-California firms in their enforcement of noncompetes against their workers. When facing a higher threat of worker departure, firms strategically increased patent filings, exchanging legal protection for public disclosure of the invention. These effects were magnified for large-sized firms and for those in complex and fast-growing industries. Further mechanism tests on the possession of trade secrets, inventor migration, saliency of the decision, and independent inventors support our theoretical account.</blockquote>
