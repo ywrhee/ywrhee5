@@ -64,14 +64,6 @@ sidebar:
     <blockquote>This paper examines how price competition in the product market affects the intensity and breadth of innovation. I assemble a unique data set comprising all 461 prosecuted collusion cases in the United States from 1975 through 2016, where I match 1,818 collusive firms to firm-level data on innovation. Empirical results from a difference-in-differences methodology show a negative causal relationship between price competition and innovation. When collusion suppressed price competition, colluded firms increased patent filings by 20.5 percent and top-quality patents by 16 percent. A significant portion of these patents are attributable to fundamental innovation activities since innovation inputs—R&D investment and the number of unique patenting inventors—increased in tandem by 15.2 percent and 22.9 percent, respectively. Furthermore, firms broadened their scope of innovation by exploring new technological areas; the number of patented technology classes increased by 11.9 percent. When competition was restored by collusion breakup, the increased and broadened innovation activities reverted to their previous levels. The effects were greater for collusion that was stronger and in fast-growing industries. I shed light on market profitability and firm financial constraints as key economic mechanisms driving the trade-off between price competition and innovation growth.</blockquote>
   </details>
 
-+ **Should Firms Do More or Less Patenting? A Randomized Control Trial on the Commercial Value of Patent Protection**.  
-Working Paper. 2022. Thompson, N., Tucci, C., Kang, H. & Khairullina, A.
-  <details>
-  <summary><font color="gray">Abstract +</font></summary>
-    <blockquote>Globally, firms spend approximately $1.7 trillion on R&D, much of which is aimed at producing patentable innovations. But patenting an invention so that they cannot be used by competitors is expensive, costing an average of $1 million for global protection. That expense is only worthwhile if the patent exclusivity generates enough commercial value for the firm, principally through higher sales or profitability in the product market.  In practice, however, it can be difficult for firms to quantify the commercial value of a patent, even after the fact, because they don’t get to observe the performance of an equivalent innovation that is unpatented. Academics have similarly been stymied in quantifying the commercial value of patents because of (1) strong selection into which innovations are patented, (2) the difficulty in connecting patent protection to specific products, and (3) the commercial sensitivity of product-level financial data.
-      This paper presents the first randomized control trial to evaluate the commercial value of patent protection. In collaboration with a large multinational company, patents covering products in the marketplace were either abandoned or maintained at random. We then traced the effects of patent protection on product-level commercial outcomes using confidential internal data. On the margin, products protected by patents generated 35% more revenue for the firm, primarily through higher unit sales, which implies that on average each additional dollar of patenting costs yields $67 in additional benefits. If this firm is representative, this means that firms should be investing to maintain patent protection on more products.</blockquote>
-  </details>
-
 + **Fast Friends: Understanding the Impact of Short-term Migration on Firms’ Invention Outcomes**.  
 Under Review. 2021. Kang, H. & Eklund, J.
   <details>
@@ -80,7 +72,7 @@ Under Review. 2021. Kang, H. & Eklund, J.
   </details>
   
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program**.  
-Working paper. 2021. Choi, S., Kim, N., Kim, J., & Kang, H.
+Under Review. 2022. Choi, S., Kim, N., Kim, J., & Kang, H.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893835" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/CKKK-AI-Go.pdf" class="btn btn--danger btn--small">PDF</a></span>
   <details>
@@ -88,6 +80,14 @@ Working paper. 2021. Choi, S., Kim, N., Kim, J., & Kang, H.
     <blockquote>How does AI improve human decision-making? Answering this question is challenging because it is difficult to assess the quality of each decision and to disentangle AI’s influence on decisions. We study professional Go games, which provide a unique opportunity to overcome such challenges. In 2016 an AI-powered Go program (APG) unexpectedly beat the best human player, surpassing the best human knowledge and skills accumulated over thousands of years. To investigate the impact of APGs, we compare human moves to AI’s superior solutions, before and after the initial public release of an APG. Our analysis of 750,990 moves in 25,033 games by 1,242 professional players reveals that APGs significantly improved the quality of the players’ moves as measured by the changes in winning probability with each move. We also show that the key mechanisms are reductions in the number of human errors and in the magnitude of the most critical mistake during the game. Interestingly, the improvement is most prominent in the early stage of a game when uncertainty is higher. Further, young players—who are more open to and better able to utilize APG—benefit more than senior players, suggesting generational inequality in AI adoption and utilization.</blockquote>
   </details>
 
++ **Should Firms Do More or Less Patenting? A Randomized Control Trial on the Commercial Value of Patent Protection**.  
+Working Paper. 2022. Thompson, N., Tucci, C., Kang, H. & Khairullina, A.
+  <details>
+  <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>Globally, firms spend approximately $1.7 trillion on R&D, much of which is aimed at producing patentable innovations. But patenting an invention so that they cannot be used by competitors is expensive, costing an average of $1 million for global protection. That expense is only worthwhile if the patent exclusivity generates enough commercial value for the firm, principally through higher sales or profitability in the product market.  In practice, however, it can be difficult for firms to quantify the commercial value of a patent, even after the fact, because they don’t get to observe the performance of an equivalent innovation that is unpatented. Academics have similarly been stymied in quantifying the commercial value of patents because of (1) strong selection into which innovations are patented, (2) the difficulty in connecting patent protection to specific products, and (3) the commercial sensitivity of product-level financial data.
+      This paper presents the first randomized control trial to evaluate the commercial value of patent protection. In collaboration with a large multinational company, patents covering products in the marketplace were either abandoned or maintained at random. We then traced the effects of patent protection on product-level commercial outcomes using confidential internal data. On the margin, products protected by patents generated 35% more revenue for the firm, primarily through higher unit sales, which implies that on average each additional dollar of patenting costs yields $67 in additional benefits. If this firm is representative, this means that firms should be investing to maintain patent protection on more products.</blockquote>
+  </details>
+  
 + **The Close Relationship Between Management Practices and Corporate Culture**.  
 Working paper. 2019. Sull, D., Kang, H., & Thompson, N.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3462116" class="btn btn--info btn--small">SSRN</a>
