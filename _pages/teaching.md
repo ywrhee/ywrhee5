@@ -13,7 +13,7 @@ sidebar:
 # University of Southern California
 
 + **Causal Inference Research Methods**, *Instructor* (GSBA603; PhD)
-  + Schedule: <a href="https://classes.usc.edu/term-20223/course/gsba-497/" class="btn btn--info btn--small">Fall 2022</a>
+  + Schedule: <a href="https://classes.usc.edu/term-20223/course/gsba-603/" class="btn btn--info btn--small">Fall 2022</a>
 
 + **Strategic Management**, *Instructor* (BUAD497; UG)
   + Schedule: <a href="https://classes.usc.edu/term-20223/course/buad-497/" class="btn btn--info btn--small">Fall 2022</a> <a href="https://classes.usc.edu/term-20213/course/buad-497/" class="btn btn--info btn--small">Fall 2021</a> <a href="https://classes.usc.edu/term-20203/course/buad-497/" class="btn btn--info btn--small">Fall 2020</a> <a href="https://classes.usc.edu/term-20193/course/buad-497/" class="btn btn--info btn--small">Fall 2019</a>
