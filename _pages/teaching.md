@@ -16,6 +16,8 @@ sidebar:
   + Fall 2022 (scheduled)
 
 + **Strategic Management**, *Instructor* (BUAD497)
+  + Course schedule: <a href="https://classes.usc.edu/term-20223/course/buad-497/" class="btn btn--info btn--small">Fall 2022</a> <a href="https://classes.usc.edu/term-20213/course/buad-497/" class="btn btn--info btn--small">Fall 2021</a> <a href="https://classes.usc.edu/term-20203/course/buad-497/" class="btn btn--info btn--small">Fall 2020</a> <a href="https://classes.usc.edu/term-20193/course/buad-497/" class="btn btn--info btn--small">Fall 2019</a>
+  + Syllabi: <a href="https://web-app.usc.edu/soc/syllabus/20213/15099.pdf" class="btn btn--warning btn--small">Fall 2021</a> <a href="https://web-app.usc.edu/soc/syllabus/20203/15106.pdf" class="btn btn--warning btn--small">Fall 2020</a> <a href="https://web-app.usc.edu/soc/syllabus/20193/15106.pdf" class="btn btn--warning btn--small">Fall 2019</a>
   + Fall 2022 (scheduled)
   + Fall 2021 <a href="https://classes.usc.edu/term-20213/course/buad-497/" class="btn btn--info btn--small">Schedule</a>
   <a href="https://web-app.usc.edu/soc/syllabus/20213/15099.pdf" class="btn btn--warning btn--small">Syllabus</a>
