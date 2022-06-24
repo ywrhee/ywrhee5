@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyo Kang"
+title                    : "Young Rhee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyo Kang"
-description              : "Assistant Professor of Management and Organization, Marshall School of Business, University of Southern California. Research Affiliate, MIT Initiative on the Digital Economy. Studies competitive strategy, strategic management, the economics of innovation, technological innovation, knowledge management, mobility of workers and businesses, and business law and policy."
-url                      : "https://hyokang.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Young Rhee"
+description              : "Ph.D. Candidate, Foster School of Business, University of Washington."
+url                      : "https://ywrhee5.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hyokangs/hyokangs.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ywrhee/ywrhee5.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/HyoKang2.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "hyokangs"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -93,24 +93,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyo Kang"
+  name             : "Young Rhee"
   avatar           : "/assets/images/HyoKang2.jpg"
-  bio              : "*Assistant Professor*<br />Marshall School of Business<br />University of Southern California<br /><br />*Research Affiliate*<br />MIT Initiative on the Digital Economy"
-  location         : #"Los Angeles, CA"
+  bio              : "*Ph.D. Candidate*<br />Foster School of Business<br />University of Washington<br />"
+  location         : #"Seattle, WA"
   email            : 
   links:
-    - label: "hyokang@marshall.usc.edu"
+    - label: "ywrhee@uw.edu"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:hyokang@marshall.usc.edu"
-    - label: "USC Webpage"
+      url: "mailto:ywrhee@uw.edu"
+    - label: "UW Webpage"
       icon: "fas fa-fw fa-university"
-      url: "https://www.marshall.usc.edu/personnel/hyo-kang"
+      url: "https://foster.uw.edu/academics/degree-programs/phd-program/directory/young-won-rhee/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=4uWW4QcAAAAJ&hl=en"
+      url: "https://scholar.google.co.kr/citations?user=GFjrT_4AAAAJ&hl=en"
     - label: "SSRN"
       icon: "far fa-fw fa-list-alt"
-      url: "https://ssrn.com/author=2205901"
+      #url: "https://ssrn.com/author=2205901"
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
       url: "https://hyokangs.github.io/assets/pdf/CV-Hyo-Kang.pdf"
